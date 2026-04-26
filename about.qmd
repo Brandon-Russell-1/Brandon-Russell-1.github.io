@@ -1,0 +1,42 @@
+---
+title: "About"
+description: "Bio, education, certifications, and teaching philosophy."
+---
+
+## The short version
+
+I serve in the U.S. Air Force, currently assigned as a **Cyber Master Instructor and Acting Director of Operations** at one of the Air Force's primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.
+
+My focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.
+
+I have delivered **3,000+ hours** of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students.
+
+## Education
+
+|  |  |  |
+|---|---|---|
+| **Ed.D., Educational Leadership** (4.0 GPA) | Liberty University | Aug 2022 |
+| **M.S., Information Technology** (4.0 GPA) | University of Maryland Global Campus | May 2019 |
+| **B.S., Computer Studies** (3.8 GPA) | University of Maryland Global Campus | Jun 2010 |
+
+## Clearance & certifications
+
+- **TS/SCI Clearance**
+- Certified Information Systems Security Professional (**CISSP**)
+- OffSec Certified Professional (**OSCP**)
+- OffSec Wireless Professional (**OSWP**)
+- CompTIA **Security+** ce
+- Certified **Master Instructor**
+- Linear Algebra I & II Certificate (Linear Equations & Matrix Algebra)
+- FAA **Part 107** Small Unmanned Aircraft Systems
+- Professional Manager Certification
+
+## Teaching philosophy
+
+The students I have taught in uniform have ranged from new lieutenants meeting cybersecurity for the first time to mid-career operators preparing for technical assignments. The lesson I keep coming back to is this: **people learn cybersecurity by doing it, not by reading about it.** My role as an instructor is to design experiences where the gap between concept and practice is as short as possible, then to coach honest reflection on what worked and what did not.
+
+That belief shapes my doctoral work, my course design, and the way I plan to teach in a university setting. It is also why my course materials lean heavily on lab work, written deliverables, and verbal debriefs, the three places where shallow understanding gets exposed.
+
+## What I do outside of work
+
+Outside of professional projects I follow my kids' sports, collect and trade graded sports cards and Magic: The Gathering, and read across cognitive science, comparative religion, and infrastructure topics.

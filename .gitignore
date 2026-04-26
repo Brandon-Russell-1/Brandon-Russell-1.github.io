@@ -1,0 +1,20 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+/_freeze/
+**/*.quarto_ipynb
+
+# Editor / tooling
+/.cache/
+/.vscode/
+/.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archive of previous React site (kept locally for reference, not deployed)
+/archive/
+
+# Resume PDF contains personal contact info, not for public push
+Brandon_Russell_Resume.pdf

@@ -1,0 +1,346 @@
+/* ----------------------------------------------------------------------- */
+/*  Brandon Russell — site styles                                          */
+/*  Minimal, hamel.dev-inspired typography and listings.                   */
+/* ----------------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap');
+
+:root {
+  --br-ink:        #1a1a1a;
+  --br-muted:      #5a5a5a;
+  --br-rule:       #e5e5e5;
+  --br-bg-soft:    #fafafa;
+  --br-accent:     #1f5582;       /* deep navy-blue */
+  --br-accent-2:   #16415f;
+  --br-link:       #1f5582;
+  --br-warm:       #b85c2c;       /* used sparingly for accents */
+}
+
+/* ---------- Base typography --------------------------------------------- */
+
+body {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.65;
+  color: var(--br-ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--br-ink);
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+h1.title { font-size: 2.4rem; font-weight: 700; letter-spacing: -0.02em; }
+h2 { font-size: 1.55rem; padding-top: 0.35rem; border-top: 1px solid var(--br-rule); }
+h3 { font-size: 1.2rem; }
+
+p.subtitle, .quarto-title-block .description {
+  color: var(--br-muted);
+  font-weight: 400;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}
+
+code, pre, .sourceCode {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.92em;
+}
+
+/* ---------- Links ------------------------------------------------------- */
+
+a {
+  color: var(--br-link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 120ms ease;
+}
+a:hover {
+  text-decoration: none;
+  border-bottom-color: var(--br-link);
+}
+.navbar a, .footer a, .about-links a, a.btn { border-bottom: none !important; }
+
+/* ---------- Navbar ------------------------------------------------------ */
+
+.navbar {
+  border-bottom: 1px solid var(--br-rule);
+  background-color: #ffffff !important;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+.navbar-brand img {
+  border-radius: 50%;
+  width: 32px; height: 32px;
+  object-fit: cover;
+  margin-right: 0.4rem;
+}
+.navbar .nav-link {
+  font-weight: 500;
+  font-size: 0.98rem;
+  color: var(--br-ink);
+}
+.navbar .nav-link:hover, .navbar .nav-link.active {
+  color: var(--br-accent);
+}
+
+/* ---------- Hero / About:trestles ---------------------------------------- */
+
+.about-entity .about-image {
+  max-width: 16em;
+  border-radius: 50% !important;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.08);
+}
+.about-links .about-link {
+  border: 1px solid var(--br-rule);
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.92rem;
+  color: var(--br-ink);
+  background: #ffffff;
+  transition: background 120ms ease, border-color 120ms ease, color 120ms ease;
+}
+.about-links .about-link:hover {
+  background: var(--br-accent);
+  color: #ffffff;
+  border-color: var(--br-accent);
+}
+
+/* ---------- Tables (listing + content) ---------------------------------- */
+
+.quarto-listing-default .listing-table,
+table {
+  font-size: 0.98rem;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 1.5rem 0 2rem;
+  line-height: 1.55;
+}
+.quarto-listing-default thead th,
+table thead th {
+  border-bottom: 2px solid var(--br-ink);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.85rem 1rem 0.85rem 0.25rem;
+  background: transparent;
+}
+.quarto-listing-default thead th:not(:last-child),
+table thead th:not(:last-child) {
+  padding-right: 1.5rem;
+}
+.quarto-listing-default tbody td,
+table tbody td {
+  border-bottom: 1px solid var(--br-rule);
+  padding: 1rem 1rem 1rem 0.25rem;
+  vertical-align: top;
+}
+.quarto-listing-default tbody td:not(:last-child),
+table tbody td:not(:last-child) {
+  padding-right: 1.5rem;
+}
+.quarto-listing-default tbody td:first-child,
+table tbody td:first-child {
+  padding-left: 0.25rem;
+}
+.quarto-listing-default tr:hover td {
+  background-color: var(--br-bg-soft);
+}
+/* Give the first column (links/labels) room without crowding */
+table tbody td:first-child {
+  white-space: normal;
+  min-width: 8em;
+}
+
+/* ---------- Larger CV/work-history tables ------------------------------- */
+
+.cv-table table {
+  font-size: 1.1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.cv-table table thead th {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 1rem 1rem 1rem 0.25rem;
+}
+.cv-table table tbody td {
+  padding: 1.25rem 1rem 1.25rem 0.25rem;
+  line-height: 1.5;
+}
+.cv-table table tbody td:first-child {
+  font-weight: 600;
+  min-width: 16em;
+}
+.cv-table table tbody td:last-child {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--br-muted);
+}
+.quarto-dark .cv-table table tbody td:last-child {
+  color: var(--br-muted);
+}
+
+/* listing date column compact */
+.quarto-listing-default .listing-date {
+  white-space: nowrap;
+  color: var(--br-muted);
+  font-variant-numeric: tabular-nums;
+  width: 7em;
+}
+.quarto-listing-default .listing-title {
+  font-weight: 600;
+}
+.quarto-listing-default .listing-description {
+  color: var(--br-muted);
+  font-size: 0.95rem;
+}
+
+/* ---------- Buttons ----------------------------------------------------- */
+
+.btn {
+  border-radius: 4px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+.btn-primary {
+  background-color: var(--br-accent);
+  border-color: var(--br-accent);
+}
+.btn-primary:hover {
+  background-color: var(--br-accent-2);
+  border-color: var(--br-accent-2);
+}
+.btn-outline-secondary {
+  color: var(--br-ink);
+  border-color: var(--br-rule);
+}
+.btn-outline-secondary:hover {
+  background-color: var(--br-ink);
+  border-color: var(--br-ink);
+}
+
+/* ---------- Callouts ---------------------------------------------------- */
+
+.callout {
+  border-left-width: 3px;
+  border-radius: 4px;
+}
+.callout.callout-style-default .callout-title {
+  font-weight: 600;
+}
+
+/* ---------- Blockquote -------------------------------------------------- */
+
+blockquote {
+  border-left: 3px solid var(--br-accent);
+  background: var(--br-bg-soft);
+  padding: 0.8rem 1.1rem;
+  color: var(--br-ink);
+  font-style: italic;
+  margin: 1.2rem 0;
+}
+
+/* ---------- Footer ------------------------------------------------------ */
+
+.nav-footer {
+  border-top: 1px solid var(--br-rule);
+  color: var(--br-muted);
+  font-size: 0.92rem;
+}
+.nav-footer a {
+  color: var(--br-muted);
+}
+.nav-footer a:hover {
+  color: var(--br-accent);
+}
+
+/* ---------- Listing card variant (kept lean) ---------------------------- */
+
+.quarto-listing-cols-1 .quarto-post,
+.quarto-listing-cols-2 .quarto-post,
+.quarto-listing-cols-3 .quarto-post {
+  border-bottom: 1px solid var(--br-rule);
+  padding: 0.9rem 0;
+}
+
+/* ---------- Dark mode overrides ---------------------------------------- */
+
+.quarto-dark {
+  --br-ink:        #e8e8e8;
+  --br-muted:      #a0a0a0;
+  --br-rule:       #2a2f36;
+  --br-bg-soft:    #1a1f25;
+  --br-accent:     #6aa3d9;
+  --br-accent-2:   #8fbce4;
+  --br-link:       #8fbce4;
+}
+.quarto-dark body { color: var(--br-ink); }
+.quarto-dark h1, .quarto-dark h2, .quarto-dark h3,
+.quarto-dark h4, .quarto-dark h5, .quarto-dark h6 { color: var(--br-ink); }
+.quarto-dark h2 { border-top-color: var(--br-rule); }
+.quarto-dark p.subtitle, .quarto-dark .quarto-title-block .description { color: var(--br-muted); }
+.quarto-dark .navbar { background-color: #15191e !important; border-bottom-color: var(--br-rule); }
+.quarto-dark .navbar .nav-link { color: var(--br-ink); }
+.quarto-dark .navbar .nav-link:hover, .quarto-dark .navbar .nav-link.active { color: var(--br-accent); }
+.quarto-dark .about-links .about-link {
+  background: transparent;
+  color: var(--br-ink);
+  border-color: var(--br-rule);
+}
+.quarto-dark .about-links .about-link:hover {
+  background: var(--br-accent);
+  color: #0e1114;
+  border-color: var(--br-accent);
+}
+.quarto-dark table thead th,
+.quarto-dark .quarto-listing-default thead th { border-bottom-color: var(--br-ink); }
+.quarto-dark table tbody td,
+.quarto-dark .quarto-listing-default tbody td { border-bottom-color: var(--br-rule); }
+.quarto-dark .quarto-listing-default tr:hover td { background-color: var(--br-bg-soft); }
+.quarto-dark .quarto-listing-default .listing-date,
+.quarto-dark .quarto-listing-default .listing-description { color: var(--br-muted); }
+.quarto-dark blockquote {
+  border-left-color: var(--br-accent);
+  background: var(--br-bg-soft);
+  color: var(--br-ink);
+}
+.quarto-dark .nav-footer { border-top-color: var(--br-rule); color: var(--br-muted); }
+.quarto-dark .nav-footer a { color: var(--br-muted); }
+.quarto-dark .nav-footer a:hover { color: var(--br-accent); }
+.quarto-dark .btn-primary {
+  background-color: var(--br-accent);
+  border-color: var(--br-accent);
+  color: #0e1114;
+}
+.quarto-dark .btn-primary:hover {
+  background-color: var(--br-accent-2);
+  border-color: var(--br-accent-2);
+  color: #0e1114;
+}
+.quarto-dark .btn-outline-secondary {
+  color: var(--br-ink);
+  border-color: var(--br-rule);
+}
+.quarto-dark .btn-outline-secondary:hover {
+  background-color: var(--br-ink);
+  color: #0e1114;
+  border-color: var(--br-ink);
+}
+.quarto-dark .about-entity .about-image {
+  box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+}
+
+/* ---------- Subtle small-screen tweaks ---------------------------------- */
+
+@media (max-width: 700px) {
+  body { font-size: 1rem; }
+  h1.title { font-size: 1.95rem; }
+  h2 { font-size: 1.35rem; }
+  .about-entity .about-image { max-width: 11em; }
+}

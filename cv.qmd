@@ -1,0 +1,97 @@
+---
+title: "Curriculum Vitae"
+description: "Career summary, education, certifications, and selected service positions."
+toc: true
+toc-depth: 2
+toc-location: right
+---
+
+[LinkedIn](https://www.linkedin.com/in/brandon-r-russell/){.btn .btn-primary} &nbsp; [GitHub](https://github.com/Brandon-Russell-1){.btn .btn-outline-secondary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
+
+A current resume is available on request.
+
+## Summary
+
+Educator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. CISSP, OSCP, and TS/SCI credentials plus 25+ years of operational experience support faculty contribution in cybersecurity and aviation programs.
+
+## Education
+
+**Doctor of Education, Educational Leadership** &nbsp; · &nbsp; 4.0 GPA &nbsp; · &nbsp; Aug 2022 \
+Liberty University, Lynchburg, VA
+
+**Master of Science, Information Technology** &nbsp; · &nbsp; 4.0 GPA &nbsp; · &nbsp; May 2019 \
+University of Maryland Global Campus, Adelphi, MD
+
+**Bachelor of Science, Computer Studies** &nbsp; · &nbsp; 3.8 GPA &nbsp; · &nbsp; Jun 2010 \
+University of Maryland Global Campus, Adelphi, MD
+
+## Clearance & certifications
+
+- **TS/SCI Clearance**
+- Certified Information Systems Security Professional (CISSP)
+- OffSec Certified Professional (OSCP)
+- OffSec Wireless Professional (OSWP)
+- CompTIA Security+ ce
+- Certified Master Instructor
+- Linear Algebra I & II Certificate: Linear Equations & Matrix Algebra
+- FAA Part 107 Small Unmanned Aircraft Systems License
+- Professional Manager Certification
+
+## Skills
+
+Curriculum Design & Development &nbsp;·&nbsp; Course & Assessment Design &nbsp;·&nbsp; Faculty Mentorship &nbsp;·&nbsp; Technical Instruction &nbsp;·&nbsp; Outcomes-Based Learning &nbsp;·&nbsp; Cybersecurity Operations & Strategy &nbsp;·&nbsp; Penetration Testing & Red Teaming &nbsp;·&nbsp; Software Development & Coding &nbsp;·&nbsp; Database Design & SQL &nbsp;·&nbsp; AI Security & Offensive AI
+
+## Professional experience
+
+### Teaching & curriculum
+
+- Delivered **3,000 hours** of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.
+- Supervised **21 instructors**, reviewed **153 courses** covering **3,000 learning objectives**, and mentored faculty in lesson design and assessment, graduating **1,398 students**.
+
+### Cybersecurity & leadership
+
+- Commanded **103 personnel** and directed C2 of **10K cyber forces** for **638K joint warfighters**; integrated kinetic and non-kinetic capabilities for unified global effects.
+- Led a **51-person joint AF/Navy team** managing a **$54M cyber weapon system**, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system.
+
+### Cyber effects
+
+- Led cyber operations countering a supply chain hack, hardening **289 servers across 81 missions** and blunting nation-state adversaries.
+- Conducted cyber surveillance for **NORAD** and **Operation Noble Eagle**, protecting the 2020 elections, the top priority of the USCYBERCOM commander.
+
+### Software development
+
+- Built a SharePoint solution across **58 Air Force units**, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.
+- Developed database systems for aircraft operations, handling **10K sorties** and **$29M in assets** with SQL backends supporting trend analysis and continuity.
+
+## Work history
+
+**United States Air Force**
+
+::: {.cv-table}
+
+| Role | Location | Years |
+|---|---|---|
+| Cyber Master Instructor / Acting Director of Operations | Biloxi, MS | 2024 – Present |
+| Recruiting Program Manager | San Antonio, TX | 2021 – 2024 |
+| Senior Duty Officer, Cyber Operations | San Antonio, TX | 2020 – 2021 |
+| Flight Commander, Cyber Operations | Charleston, SC | 2017 – 2020 |
+| Supervisor & Master Instructor | Warner Robins, GA | 2011 – 2016 |
+| Aircraft Electrical Tech, DB Developer, IA Officer | Spain & Azores | 2001 – 2011 |
+
+:::
+
+## Teaching
+
+Teaching across cybersecurity, computer science, aviation, and aerospace topics. See [Teaching](teaching.qmd) for areas of expertise and current cohorts.
+
+## Selected projects
+
+See [Projects](projects.qmd) and [GitHub](https://github.com/Brandon-Russell-1).
+
+## Writing & speaking
+
+See [Writing](writing.qmd), [Publications](publications.qmd), [Medium](https://medium.com/@brandon.r.russell.1), and [YouTube](https://www.youtube.com/@Dr.BrandonRussell).
+
+## References
+
+Available on request.

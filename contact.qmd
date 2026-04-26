@@ -1,0 +1,24 @@
+---
+title: "Contact"
+description: "Email, LinkedIn, location, and what I am open to."
+---
+
+The fastest way to reach me is email. A current resume is available on request.
+
+|  |  |
+|---|---|
+| **Email** | [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/brandon-r-russell](https://www.linkedin.com/in/brandon-r-russell/) |
+| **GitHub** | [github.com/Brandon-Russell-1](https://github.com/Brandon-Russell-1) |
+| **X** | [x.com/Dr_BRussell](https://x.com/Dr_BRussell) |
+| **YouTube** | [@Dr.BrandonRussell](https://www.youtube.com/@Dr.BrandonRussell) |
+| **Medium** | [@brandon.r.russell.1](https://medium.com/@brandon.r.russell.1) |
+
+## What I am open to
+
+- **Faculty conversations.** Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.
+- **Maven cohort partnerships.** Co-instructors, sponsors, and learners interested in offensive security and instructional design cohorts. See [Teaching](teaching.qmd#maven-cohort-courses).
+- **Consulting engagements.** Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.
+- **Speaking and guest lectures.** See [Speaking](speaking.qmd).
+
+If you are reaching out about a faculty role, a brief note about the program and the timing of the search is the most useful thing you can include in a first email.

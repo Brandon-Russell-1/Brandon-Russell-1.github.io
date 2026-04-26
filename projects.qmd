@@ -1,0 +1,26 @@
+---
+title: "Projects"
+description: "Public technical work, offensive security tooling, lab automation, and instructional utilities."
+---
+
+A selection of public technical work. Source on [GitHub](https://github.com/Brandon-Russell-1).
+
+## Offensive security tooling
+
+| | | |
+|---|---|---|
+| **[OSCP-Notes](https://github.com/Brandon-Russell-1/OSCP-Notes)** | HTML | Working notes and methodology references compiled while preparing for and re-using through the OSCP. |
+| **[NimRevShell](https://github.com/Brandon-Russell-1/NimRevShell)** | Nim | A reverse shell written in Nim, useful for studying language-driven AV/EDR evasion patterns. |
+| **[NimPortScan](https://github.com/Brandon-Russell-1/NimPortScan)** | Nim | A small port scanner in Nim, paired with the reverse shell as a teaching artifact for offensive tooling in less common languages. |
+| **[RustPasswordCracker](https://github.com/Brandon-Russell-1/RustPasswordCracker)** | Rust | A multithreaded password cracker built in Rust, companion code to the *2600: The Hacker Quarterly* article on building a password cracker with OpenAI and Rust. |
+| **[Diversion_THM_Box](https://github.com/Brandon-Russell-1/Diversion_THM_Box)** | Shell | A vulnerable Linux machine I built for the TryHackMe *Diversion* challenge, used as a teaching aid for designing CTF-style targets. |
+
+## Cybersecurity automation
+
+| | | |
+|---|---|---|
+| **[DiscordWebHashBot](https://github.com/Brandon-Russell-1/DiscordWebHashBot)** | Python | Monitors a website for content changes on a 24-hour interval and reports updates to a Discord channel, small but useful for tracking advisories or course-relevant pages. |
+
+## Open-source contributions
+
+I contribute back to the open-source projects I use. See merged pull requests on my [GitHub profile](https://github.com/Brandon-Russell-1).

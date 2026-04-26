@@ -1,0 +1,18 @@
+---
+title: "Speaking"
+description: "Video, talks, and how to book."
+---
+
+## Video
+
+I publish video content on [YouTube, @Dr.BrandonRussell](https://www.youtube.com/@Dr.BrandonRussell) covering cybersecurity training topics, offensive security walk-throughs, and reflections on instructional design.
+
+## Talks and presentations
+
+Coming soon.
+
+## Booking
+
+I am available for guest lectures, departmental seminars, and industry events on cybersecurity training, offensive security, and military-to-academia transitions.
+
+The fastest way to book me is email: [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com). Or reach out via the [contact page](contact.qmd).

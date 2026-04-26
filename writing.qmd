@@ -1,0 +1,14 @@
+---
+title: "Writing"
+description: "Articles on cybersecurity training, offensive security, and military aviation."
+---
+
+I publish on [Medium](https://medium.com/@brandon.r.russell.1). Peer-reviewed and trade publications are listed on [Publications](publications.qmd).
+
+## Posts
+
+Coming soon. Native posts and notes will appear here once I have rebuilt on Medium.
+
+## Topics I write about
+
+Cybersecurity education, training program design, offensive security operations, military aviation systems, the transition from military to academic and consulting careers, and occasionally cognitive science, the philosophy of education, and systems thinking.

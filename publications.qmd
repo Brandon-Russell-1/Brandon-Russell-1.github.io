@@ -1,0 +1,27 @@
+---
+title: "Publications"
+description: "Peer-reviewed and trade publications."
+toc: true
+toc-depth: 2
+toc-location: right
+---
+
+## Peer-reviewed
+
+Russell, B. R. (forthcoming, 2026). *Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater.* **Joint Force Quarterly**, 121.
+
+Russell, B. R. (2023). *The United States Air Force pilot diversity dilemma.* **Equality, Diversity and Inclusion: An International Journal**, 42(7), 848–871. <https://doi.org/10.1108/edi-10-2022-0297>
+
+## Trade
+
+Russell, B. R. (2025, Spring). *Building a password cracker using OpenAI and Rust.* **2600: The Hacker Quarterly**.
+
+## Self-published
+
+Russell, B. R. (2023). *From wrenches to pens.*
+
+Russell, B. R. (2022). *The other airman.*
+
+## Doctoral dissertation
+
+Russell, B. R. (2022). *Recommendations for improving applicant diversity recruitment at the United States Air Force Aim High Flight Academy.* Doctor of Education in Educational Leadership, Liberty University, Lynchburg, VA.

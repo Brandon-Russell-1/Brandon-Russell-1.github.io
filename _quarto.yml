@@ -1,0 +1,94 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - "CNAME"
+
+website:
+  title: "Brandon Russell"
+  description: "Cybersecurity educator and U.S. Air Force cyber officer."
+  site-url: https://brandonrussell.io
+  favicon: images/favicon.svg
+  open-graph: true
+  twitter-card:
+    creator: "@Dr_BRussell"
+    site: "@Dr_BRussell"
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: writing.qmd
+        text: Writing
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: speaking.qmd
+        text: Speaking
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/Brandon-Russell-1
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/brandon-r-russell/
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: https://x.com/Dr_BRussell
+        aria-label: X
+      - icon: youtube
+        href: https://www.youtube.com/@Dr.BrandonRussell
+        aria-label: YouTube
+      - icon: medium
+        href: https://medium.com/@brandon.r.russell.1
+        aria-label: Medium
+      - icon: envelope
+        href: mailto:brandon.r.russell.1@gmail.com
+        aria-label: Email
+  page-footer:
+    border: true
+    left: |
+      &copy; 2026 Brandon Russell &middot; Built with [Quarto](https://quarto.org)
+    right:
+      - icon: github
+        href: https://github.com/Brandon-Russell-1
+      - icon: linkedin
+        href: https://www.linkedin.com/in/brandon-r-russell/
+      - icon: twitter-x
+        href: https://x.com/Dr_BRussell
+      - icon: youtube
+        href: https://www.youtube.com/@Dr.BrandonRussell
+      - icon: medium
+        href: https://medium.com/@brandon.r.russell.1
+      - icon: envelope
+        href: mailto:brandon.r.russell.1@gmail.com
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    mainfont: "Source Sans Pro, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    monofont: "JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace"
+    fontsize: "1.05rem"
+    linkcolor: "#1f5582"
+    grid:
+      sidebar-width: 200px
+      body-width: 760px
+      margin-width: 200px

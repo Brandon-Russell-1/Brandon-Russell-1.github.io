@@ -1,0 +1,42 @@
+---
+title: "Teaching"
+description: "University teaching interests, Maven cohorts, and current teaching role."
+toc: true
+toc-depth: 2
+toc-location: right
+---
+
+I teach where the audience is. This page indexes three kinds of teaching:
+
+1. **University teaching** in my areas of expertise.
+2. **Maven cohort courses** for working professionals.
+3. **Instructional supervision** I do every day in uniform.
+
+## University teaching
+
+I teach across cybersecurity, computer science, aviation, and aerospace topics, drawing on a Doctor of Education in educational leadership, a Certified Master Instructor credential, 3,000+ hours of classroom instruction, and 25 years of operational experience in cyber and aviation systems.
+
+Areas I am qualified to teach at the undergraduate or graduate level:
+
+- **Cybersecurity.** Network and host security, offensive security and penetration testing, security operations, identity and access management, and AI security.
+- **Computer science.** Programming and software development (Python, Rust, Nim, C#), database design and SQL, and systems-level fundamentals.
+- **Aviation systems.** Aircraft electrical and environmental systems, avionics architectures, and the cybersecurity of aviation and weapons systems.
+- **Instructional design.** Course and assessment design, outcomes-based learning, and faculty mentorship.
+
+If you are a department chair or program lead exploring a fit, [email me](mailto:brandon.r.russell.1@gmail.com) and I will share course outlines and sample materials I have on hand.
+
+## Maven cohort courses
+
+I run cohort-based courses for working professionals on [Maven](https://maven.com/). The format suits how working adults actually learn: live sessions, peer accountability, graded labs, and a deliverable they can put on a portfolio.
+
+Each cohort I open will be linked here. **Want first notice?** [Email me](mailto:brandon.r.russell.1@gmail.com) and I will add you to the list.
+
+## Current teaching role
+
+As **Cyber Master Instructor and Acting Director of Operations** at one of the Air Force's primary technical training schoolhouses, I oversee the development of new cyber and communications officers. The work involves curriculum review, instructor development, and direct classroom and lab instruction. To date I have delivered 3,000+ hours of classroom instruction, supervised 21 instructors, and reviewed 153 courses covering 3,000 learning objectives.
+
+I am a **Certified Master Instructor**, the terminal instructional credential within the Air Force training pipeline.
+
+## Mentoring and faculty development
+
+I have built and delivered presentations on pursuing a terminal degree for officers considering doctoral work, and I regularly mentor instructors on classroom delivery, assessment design, and the career path from operator to educator.

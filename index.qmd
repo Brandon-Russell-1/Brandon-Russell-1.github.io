@@ -1,0 +1,64 @@
+---
+title: "Brandon Russell, Ed.D."
+subtitle: "Cybersecurity educator and U.S. Air Force cyber officer. I write on Medium, teach on Maven, build on GitHub, and index it all here."
+pagetitle: "Brandon Russell"
+description-meta: "Personal site of Brandon Russell, cybersecurity educator, U.S. Air Force cyber officer, and Ed.D. in educational leadership. Hub for writing, courses, software projects, and publications."
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/brandon-r-russell/
+    - icon: github
+      text: GitHub
+      href: https://github.com/Brandon-Russell-1
+    - icon: twitter-x
+      text: X
+      href: https://x.com/Dr_BRussell
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@Dr.BrandonRussell
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@brandon.r.russell.1
+    - icon: envelope
+      text: Email
+      href: mailto:brandon.r.russell.1@gmail.com
+---
+
+I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force's primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.
+
+My background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.
+
+I hold **CISSP**, **OSCP**, **OSWP**, **Security+**, **TS/SCI**, and **CCAF Master Instructor** credentials, and I am pursuing **PMP** and **FAA Airframe and Powerplant** certification through the military experience pathway.
+
+If you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a cohort course or guest lecture, I would be glad to talk: [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com).
+
+[Full CV](cv.qmd){.btn .btn-primary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
+
+## How this site is organized
+
+This site is the index. The work itself lives where the audience for it lives:
+
+| Where | What I do there |
+|---|---|
+| [**Medium** ↗](https://medium.com/@brandon.r.russell.1) | Writing on offensive security, training, and the philosophy of education. New essays appear there first; the [Writing](writing.qmd) page collects them. |
+| [**Maven** ↗](teaching.qmd#maven-cohort-courses) | Cohort-based courses on practical offensive security and instructional design (in development). Listed under [Teaching](teaching.qmd). |
+| [**GitHub** ↗](https://github.com/Brandon-Russell-1) | Offensive security tooling, lab automation, and instructional utilities. Curated on [Projects](projects.qmd). |
+| [**YouTube** ↗](https://www.youtube.com/@Dr.BrandonRussell) | Walk-throughs, talks, and instructional design notes. Indexed on [Speaking](speaking.qmd). |
+| [**This site**](about.qmd) | The hub, bio, [CV](cv.qmd), [Publications](publications.qmd), and how to [reach me](contact.qmd). |
+
+## Currently
+
+- Teaching across cybersecurity, computer science, aviation, and aerospace topics, see [Teaching](teaching.qmd).
+- Running cohort-based courses for working professionals on [Maven](teaching.qmd#maven-cohort-courses).
+- Writing on cybersecurity training, offensive security, and instructional design, on [Medium](https://medium.com/@brandon.r.russell.1) and [here](writing.qmd).
+- Open to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.
+- Available for selective consulting in cybersecurity training program design and offensive security assessment scoping.
+
+## Writing & speaking
+
+See [Writing](writing.qmd), [Publications](publications.qmd), [Medium](https://medium.com/@brandon.r.russell.1), and [YouTube](https://www.youtube.com/@Dr.BrandonRussell).
