@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://brandonrussell.io/writing.html</loc>
-    <lastmod>2026-04-26T01:46:19.615Z</lastmod>
+    <lastmod>2026-04-26T20:12:51.603Z</lastmod>
   </url>
   <url>
     <loc>https://brandonrussell.io/speaking.html</loc>
@@ -13,20 +13,24 @@
     <lastmod>2026-04-26T01:46:19.613Z</lastmod>
   </url>
   <url>
-    <loc>https://brandonrussell.io/cv.html</loc>
-    <lastmod>2026-04-26T01:46:19.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://brandonrussell.io/about.html</loc>
-    <lastmod>2026-04-26T01:46:19.610Z</lastmod>
+    <loc>https://brandonrussell.io/index.html</loc>
+    <lastmod>2026-04-26T01:46:19.612Z</lastmod>
   </url>
   <url>
     <loc>https://brandonrussell.io/contact.html</loc>
     <lastmod>2026-04-26T01:46:19.610Z</lastmod>
   </url>
   <url>
-    <loc>https://brandonrussell.io/index.html</loc>
-    <lastmod>2026-04-26T01:46:19.612Z</lastmod>
+    <loc>https://brandonrussell.io/about.html</loc>
+    <lastmod>2026-04-26T01:46:19.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brandonrussell.io/cv.html</loc>
+    <lastmod>2026-04-26T01:46:19.611Z</lastmod>
+  </url>
+  <url>
+    <loc>https://brandonrussell.io/posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html</loc>
+    <lastmod>2026-04-26T20:12:41.381Z</lastmod>
   </url>
   <url>
     <loc>https://brandonrussell.io/publications.html</loc>

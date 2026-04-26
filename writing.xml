@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Brandon Russell, Writing</title>
+<link>https://brandonrussell.io/writing.html</link>
+<atom:link href="https://brandonrussell.io/writing.xml" rel="self" type="application/rss+xml"/>
+<description>Articles on cybersecurity training, offensive security, and military aviation.</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Sun, 26 Apr 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cleartext, Module 1: The Path of a Packet</title>
+  <link>https://brandonrussell.io/posts/2026-04-26-cleartext-module-1-path-of-a-packet/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://medium.com/@brandon.r.russell.1/cleartext-ec128820b565"><strong>Read on Medium →</strong></a></p>
+<blockquote class="blockquote">
+<p>You type <code>curl https://example.com</code> and hit enter. 200 milliseconds later, the server’s response is on your screen. In that 200 milliseconds, a lot happened.</p>
+</blockquote>
+<p>The first module in the <em>Cleartext</em> series. Walks through the path a packet takes from your terminal to a remote server and back, then maps the categories of attack that live at each layer. Designed as the foundation that later modules build on.</p>
+
+
+
+ ]]></description>
+  <category>cybersecurity</category>
+  <category>networking</category>
+  <category>cleartext</category>
+  <guid>https://brandonrussell.io/posts/2026-04-26-cleartext-module-1-path-of-a-packet/</guid>
+  <pubDate>Sun, 26 Apr 2026 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
