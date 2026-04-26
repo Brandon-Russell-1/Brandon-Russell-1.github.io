@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing",
+    "section": "",
+    "text": "I publish on Medium. Peer-reviewed and trade publications are listed on Publications."
+  },
+  {
+    "objectID": "writing.html#posts",
+    "href": "writing.html#posts",
+    "title": "Writing",
+    "section": "Posts",
+    "text": "Posts\nComing soon. Native posts and notes will appear here once I have rebuilt on Medium."
+  },
+  {
+    "objectID": "writing.html#topics-i-write-about",
+    "href": "writing.html#topics-i-write-about",
+    "title": "Writing",
+    "section": "Topics I write about",
+    "text": "Topics I write about\nCybersecurity education, training program design, offensive security operations, military aviation systems, the transition from military to academic and consulting careers, and occasionally cognitive science, the philosophy of education, and systems thinking."
+  },
+  {
+    "objectID": "speaking.html",
+    "href": "speaking.html",
+    "title": "Speaking",
+    "section": "",
+    "text": "I publish video content on YouTube, @Dr.BrandonRussell covering cybersecurity training topics, offensive security walk-throughs, and reflections on instructional design."
+  },
+  {
+    "objectID": "speaking.html#video",
+    "href": "speaking.html#video",
+    "title": "Speaking",
+    "section": "",
+    "text": "I publish video content on YouTube, @Dr.BrandonRussell covering cybersecurity training topics, offensive security walk-throughs, and reflections on instructional design."
+  },
+  {
+    "objectID": "speaking.html#talks-and-presentations",
+    "href": "speaking.html#talks-and-presentations",
+    "title": "Speaking",
+    "section": "Talks and presentations",
+    "text": "Talks and presentations\nComing soon."
+  },
+  {
+    "objectID": "speaking.html#booking",
+    "href": "speaking.html#booking",
+    "title": "Speaking",
+    "section": "Booking",
+    "text": "Booking\nI am available for guest lectures, departmental seminars, and industry events on cybersecurity training, offensive security, and military-to-academia transitions.\nThe fastest way to book me is email: brandon.r.russell.1@gmail.com. Or reach out via the contact page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of public technical work. Source on GitHub."
+  },
+  {
+    "objectID": "projects.html#offensive-security-tooling",
+    "href": "projects.html#offensive-security-tooling",
+    "title": "Projects",
+    "section": "Offensive security tooling",
+    "text": "Offensive security tooling\n\n\n\nOSCP-Notes\nHTML\nWorking notes and methodology references compiled while preparing for and re-using through the OSCP.\n\n\nNimRevShell\nNim\nA reverse shell written in Nim, useful for studying language-driven AV/EDR evasion patterns.\n\n\nNimPortScan\nNim\nA small port scanner in Nim, paired with the reverse shell as a teaching artifact for offensive tooling in less common languages.\n\n\nRustPasswordCracker\nRust\nA multithreaded password cracker built in Rust, companion code to the 2600: The Hacker Quarterly article on building a password cracker with OpenAI and Rust.\n\n\nDiversion_THM_Box\nShell\nA vulnerable Linux machine I built for the TryHackMe Diversion challenge, used as a teaching aid for designing CTF-style targets."
+  },
+  {
+    "objectID": "projects.html#cybersecurity-automation",
+    "href": "projects.html#cybersecurity-automation",
+    "title": "Projects",
+    "section": "Cybersecurity automation",
+    "text": "Cybersecurity automation\n\n\n\nDiscordWebHashBot\nPython\nMonitors a website for content changes on a 24-hour interval and reports updates to a Discord channel, small but useful for tracking advisories or course-relevant pages."
+  },
+  {
+    "objectID": "projects.html#open-source-contributions",
+    "href": "projects.html#open-source-contributions",
+    "title": "Projects",
+    "section": "Open-source contributions",
+    "text": "Open-source contributions\nI contribute back to the open-source projects I use. See merged pull requests on my GitHub profile."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "LinkedIn   GitHub   Email\nA current resume is available on request."
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "Summary",
+    "text": "Summary\nEducator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. CISSP, OSCP, and TS/SCI credentials plus 25+ years of operational experience support faculty contribution in cybersecurity and aviation programs."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDoctor of Education, Educational Leadership   ·   4.0 GPA   ·   Aug 2022\nLiberty University, Lynchburg, VA\nMaster of Science, Information Technology   ·   4.0 GPA   ·   May 2019\nUniversity of Maryland Global Campus, Adelphi, MD\nBachelor of Science, Computer Studies   ·   3.8 GPA   ·   Jun 2010\nUniversity of Maryland Global Campus, Adelphi, MD"
+  },
+  {
+    "objectID": "cv.html#clearance-certifications",
+    "href": "cv.html#clearance-certifications",
+    "title": "Curriculum Vitae",
+    "section": "Clearance & certifications",
+    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nLinear Algebra I & II Certificate: Linear Equations & Matrix Algebra\nFAA Part 107 Small Unmanned Aircraft Systems License\nProfessional Manager Certification"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nCurriculum Design & Development  ·  Course & Assessment Design  ·  Faculty Mentorship  ·  Technical Instruction  ·  Outcomes-Based Learning  ·  Cybersecurity Operations & Strategy  ·  Penetration Testing & Red Teaming  ·  Software Development & Coding  ·  Database Design & SQL  ·  AI Security & Offensive AI"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nTeaching & curriculum\n\nDelivered 3,000 hours of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.\nSupervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and mentored faculty in lesson design and assessment, graduating 1,398 students.\n\n\n\nCybersecurity & leadership\n\nCommanded 103 personnel and directed C2 of 10K cyber forces for 638K joint warfighters; integrated kinetic and non-kinetic capabilities for unified global effects.\nLed a 51-person joint AF/Navy team managing a $54M cyber weapon system, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system.\n\n\n\nCyber effects\n\nLed cyber operations countering a supply chain hack, hardening 289 servers across 81 missions and blunting nation-state adversaries.\nConducted cyber surveillance for NORAD and Operation Noble Eagle, protecting the 2020 elections, the top priority of the USCYBERCOM commander.\n\n\n\nSoftware development\n\nBuilt a SharePoint solution across 58 Air Force units, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.\nDeveloped database systems for aircraft operations, handling 10K sorties and $29M in assets with SQL backends supporting trend analysis and continuity."
+  },
+  {
+    "objectID": "cv.html#work-history",
+    "href": "cv.html#work-history",
+    "title": "Curriculum Vitae",
+    "section": "Work history",
+    "text": "Work history\nUnited States Air Force\n\n\n\n\n\n\n\n\n\nRole\nLocation\nYears\n\n\n\n\nCyber Master Instructor / Acting Director of Operations\nBiloxi, MS\n2024 – Present\n\n\nRecruiting Program Manager\nSan Antonio, TX\n2021 – 2024\n\n\nSenior Duty Officer, Cyber Operations\nSan Antonio, TX\n2020 – 2021\n\n\nFlight Commander, Cyber Operations\nCharleston, SC\n2017 – 2020\n\n\nSupervisor & Master Instructor\nWarner Robins, GA\n2011 – 2016\n\n\nAircraft Electrical Tech, DB Developer, IA Officer\nSpain & Azores\n2001 – 2011"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nTeaching across cybersecurity, computer science, aviation, and aerospace topics. See Teaching for areas of expertise and current cohorts."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "Curriculum Vitae",
+    "section": "Selected projects",
+    "text": "Selected projects\nSee Projects and GitHub."
+  },
+  {
+    "objectID": "cv.html#writing-speaking",
+    "href": "cv.html#writing-speaking",
+    "title": "Curriculum Vitae",
+    "section": "Writing & speaking",
+    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable on request."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
+  },
+  {
+    "objectID": "about.html#the-short-version",
+    "href": "about.html#the-short-version",
+    "title": "About",
+    "section": "",
+    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nEd.D., Educational Leadership (4.0 GPA)\nLiberty University\nAug 2022\n\n\nM.S., Information Technology (4.0 GPA)\nUniversity of Maryland Global Campus\nMay 2019\n\n\nB.S., Computer Studies (3.8 GPA)\nUniversity of Maryland Global Campus\nJun 2010"
+  },
+  {
+    "objectID": "about.html#clearance-certifications",
+    "href": "about.html#clearance-certifications",
+    "title": "About",
+    "section": "Clearance & certifications",
+    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nLinear Algebra I & II Certificate (Linear Equations & Matrix Algebra)\nFAA Part 107 Small Unmanned Aircraft Systems\nProfessional Manager Certification"
+  },
+  {
+    "objectID": "about.html#teaching-philosophy",
+    "href": "about.html#teaching-philosophy",
+    "title": "About",
+    "section": "Teaching philosophy",
+    "text": "Teaching philosophy\nThe students I have taught in uniform have ranged from new lieutenants meeting cybersecurity for the first time to mid-career operators preparing for technical assignments. The lesson I keep coming back to is this: people learn cybersecurity by doing it, not by reading about it. My role as an instructor is to design experiences where the gap between concept and practice is as short as possible, then to coach honest reflection on what worked and what did not.\nThat belief shapes my doctoral work, my course design, and the way I plan to teach in a university setting. It is also why my course materials lean heavily on lab work, written deliverables, and verbal debriefs, the three places where shallow understanding gets exposed."
+  },
+  {
+    "objectID": "about.html#what-i-do-outside-of-work",
+    "href": "about.html#what-i-do-outside-of-work",
+    "title": "About",
+    "section": "What I do outside of work",
+    "text": "What I do outside of work\nOutside of professional projects I follow my kids’ sports, collect and trade graded sports cards and Magic: The Gathering, and read across cognitive science, comparative religion, and infrastructure topics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The fastest way to reach me is email. A current resume is available on request."
+  },
+  {
+    "objectID": "contact.html#what-i-am-open-to",
+    "href": "contact.html#what-i-am-open-to",
+    "title": "Contact",
+    "section": "What I am open to",
+    "text": "What I am open to\n\nFaculty conversations. Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.\nMaven cohort partnerships. Co-instructors, sponsors, and learners interested in offensive security and instructional design cohorts. See Teaching.\nConsulting engagements. Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.\nSpeaking and guest lectures. See Speaking.\n\nIf you are reaching out about a faculty role, a brief note about the program and the timing of the search is the most useful thing you can include in a first email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "",
+    "text": "I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force’s primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.\nMy background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.\nI hold CISSP, OSCP, OSWP, Security+, TS/SCI, and CCAF Master Instructor credentials, and I am pursuing PMP and FAA Airframe and Powerplant certification through the military experience pathway.\nIf you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a cohort course or guest lecture, I would be glad to talk: brandon.r.russell.1@gmail.com.\nFull CV   Email"
+  },
+  {
+    "objectID": "index.html#how-this-site-is-organized",
+    "href": "index.html#how-this-site-is-organized",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "How this site is organized",
+    "text": "How this site is organized\nThis site is the index. The work itself lives where the audience for it lives:\n\n\n\nWhere\nWhat I do there\n\n\n\n\nMedium ↗\nWriting on offensive security, training, and the philosophy of education. New essays appear there first; the Writing page collects them.\n\n\nMaven ↗\nCohort-based courses on practical offensive security and instructional design (in development). Listed under Teaching.\n\n\nGitHub ↗\nOffensive security tooling, lab automation, and instructional utilities. Curated on Projects.\n\n\nYouTube ↗\nWalk-throughs, talks, and instructional design notes. Indexed on Speaking.\n\n\nThis site\nThe hub, bio, CV, Publications, and how to reach me."
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Currently",
+    "text": "Currently\n\nTeaching across cybersecurity, computer science, aviation, and aerospace topics, see Teaching.\nRunning cohort-based courses for working professionals on Maven.\nWriting on cybersecurity training, offensive security, and instructional design, on Medium and here.\nOpen to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.\nAvailable for selective consulting in cybersecurity training program design and offensive security assessment scoping."
+  },
+  {
+    "objectID": "index.html#writing-speaking",
+    "href": "index.html#writing-speaking",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Writing & speaking",
+    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
+  },
+  {
+    "objectID": "publications.html#trade",
+    "href": "publications.html#trade",
+    "title": "Publications",
+    "section": "Trade",
+    "text": "Trade\nRussell, B. R. (2025, Spring). Building a password cracker using OpenAI and Rust. 2600: The Hacker Quarterly."
+  },
+  {
+    "objectID": "publications.html#self-published",
+    "href": "publications.html#self-published",
+    "title": "Publications",
+    "section": "Self-published",
+    "text": "Self-published\nRussell, B. R. (2023). From wrenches to pens.\nRussell, B. R. (2022). The other airman."
+  },
+  {
+    "objectID": "publications.html#doctoral-dissertation",
+    "href": "publications.html#doctoral-dissertation",
+    "title": "Publications",
+    "section": "Doctoral dissertation",
+    "text": "Doctoral dissertation\nRussell, B. R. (2022). Recommendations for improving applicant diversity recruitment at the United States Air Force Aim High Flight Academy. Doctor of Education in Educational Leadership, Liberty University, Lynchburg, VA."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I teach where the audience is. This page indexes three kinds of teaching:"
+  },
+  {
+    "objectID": "teaching.html#university-teaching",
+    "href": "teaching.html#university-teaching",
+    "title": "Teaching",
+    "section": "University teaching",
+    "text": "University teaching\nI teach across cybersecurity, computer science, aviation, and aerospace topics, drawing on a Doctor of Education in educational leadership, a Certified Master Instructor credential, 3,000+ hours of classroom instruction, and 25 years of operational experience in cyber and aviation systems.\nAreas I am qualified to teach at the undergraduate or graduate level:\n\nCybersecurity. Network and host security, offensive security and penetration testing, security operations, identity and access management, and AI security.\nComputer science. Programming and software development (Python, Rust, Nim, C#), database design and SQL, and systems-level fundamentals.\nAviation systems. Aircraft electrical and environmental systems, avionics architectures, and the cybersecurity of aviation and weapons systems.\nInstructional design. Course and assessment design, outcomes-based learning, and faculty mentorship.\n\nIf you are a department chair or program lead exploring a fit, email me and I will share course outlines and sample materials I have on hand."
+  },
+  {
+    "objectID": "teaching.html#maven-cohort-courses",
+    "href": "teaching.html#maven-cohort-courses",
+    "title": "Teaching",
+    "section": "Maven cohort courses",
+    "text": "Maven cohort courses\nI run cohort-based courses for working professionals on Maven. The format suits how working adults actually learn: live sessions, peer accountability, graded labs, and a deliverable they can put on a portfolio.\nEach cohort I open will be linked here. Want first notice? Email me and I will add you to the list."
+  },
+  {
+    "objectID": "teaching.html#current-teaching-role",
+    "href": "teaching.html#current-teaching-role",
+    "title": "Teaching",
+    "section": "Current teaching role",
+    "text": "Current teaching role\nAs Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses, I oversee the development of new cyber and communications officers. The work involves curriculum review, instructor development, and direct classroom and lab instruction. To date I have delivered 3,000+ hours of classroom instruction, supervised 21 instructors, and reviewed 153 courses covering 3,000 learning objectives.\nI am a Certified Master Instructor, the terminal instructional credential within the Air Force training pipeline."
+  },
+  {
+    "objectID": "teaching.html#mentoring-and-faculty-development",
+    "href": "teaching.html#mentoring-and-faculty-development",
+    "title": "Teaching",
+    "section": "Mentoring and faculty development",
+    "text": "Mentoring and faculty development\nI have built and delivered presentations on pursuing a terminal degree for officers considering doctoral work, and I regularly mentor instructors on classroom delivery, assessment design, and the career path from operator to educator."
+  }
+]
