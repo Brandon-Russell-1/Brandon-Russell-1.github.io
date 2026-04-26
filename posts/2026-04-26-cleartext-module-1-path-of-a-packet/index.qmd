@@ -1,0 +1,12 @@
+---
+title: "Cleartext, Module 1: The Path of a Packet"
+description: "And why every cyberattack you'll ever read about lives somewhere on it. A foundational walk-through of how a packet actually traverses the network stack, with attack surface mapped to each layer."
+date: 2026-04-26
+categories: [cybersecurity, networking, cleartext]
+---
+
+[**Read on Medium →**](https://medium.com/@brandon.r.russell.1/cleartext-ec128820b565)
+
+> You type `curl https://example.com` and hit enter. 200 milliseconds later, the server's response is on your screen. In that 200 milliseconds, a lot happened.
+
+The first module in the *Cleartext* series. Walks through the path a packet takes from your terminal to a remote server and back, then maps the categories of attack that live at each layer. Designed as the foundation that later modules build on.

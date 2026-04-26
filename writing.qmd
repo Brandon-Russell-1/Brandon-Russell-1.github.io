@@ -1,13 +1,28 @@
 ---
 title: "Writing"
 description: "Articles on cybersecurity training, offensive security, and military aviation."
+listing:
+  - id: posts
+    contents: posts
+    type: table
+    fields: [date, title, description]
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: true
+    date-format: "MMM D, YYYY"
+    table-striped: false
+    table-hover: true
+    feed:
+      title: "Brandon Russell, Writing"
+      type: full
 ---
 
 I publish on [Medium](https://medium.com/@brandon.r.russell.1). Peer-reviewed and trade publications are listed on [Publications](publications.qmd).
 
 ## Posts
 
-Coming soon. Native posts and notes will appear here once I have rebuilt on Medium.
+::: {#posts}
+:::
 
 ## Topics I write about
 
