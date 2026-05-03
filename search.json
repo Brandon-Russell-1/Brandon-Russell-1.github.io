@@ -11,7 +11,7 @@
     "href": "writing.html#posts",
     "title": "Writing",
     "section": "Posts",
-    "text": "Posts\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nApr 26, 2026\n\n\nCleartext, Module 1: The Path of a Packet\n\n\nAnd why every cyberattack you’ll ever read about lives somewhere on it. A foundational walk-through of how a packet actually traverses the network stack, with attack surface mapped to each layer.\n\n\n\n\n\n\nNo matching items"
+    "text": "Posts\n\n\n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMay 3, 2026\n\n\nCleartext, Module 2: Layer 2, Frames, MACs, and Switches\n\n\nAnd why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.\n\n\n\n\n\n\nApr 26, 2026\n\n\nCleartext, Module 1: The Path of a Packet\n\n\nAnd why every cyberattack you’ll ever read about lives somewhere on it. A foundational walk-through of how a packet actually traverses the network stack, with attack surface mapped to each layer.\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "writing.html#topics-i-write-about",
@@ -77,88 +77,11 @@
     "text": "Open-source contributions\nI contribute back to the open-source projects I use. See merged pull requests on my GitHub profile."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brandon Russell, Ed.D.",
+    "objectID": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
+    "href": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
+    "title": "Cleartext, Module 1: The Path of a Packet",
     "section": "",
-    "text": "I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force’s primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.\nMy background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.\nI hold CISSP, OSCP, OSWP, Security+, TS/SCI, and CCAF Master Instructor credentials, and I am pursuing PMP and FAA Airframe and Powerplant certification through the military experience pathway.\nIf you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a cohort course or guest lecture, I would be glad to talk: brandon.r.russell.1@gmail.com.\nFull CV   Email"
-  },
-  {
-    "objectID": "index.html#how-this-site-is-organized",
-    "href": "index.html#how-this-site-is-organized",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "How this site is organized",
-    "text": "How this site is organized\nThis site is the index. The work itself lives where the audience for it lives:\n\n\n\nWhere\nWhat I do there\n\n\n\n\nMedium ↗\nWriting on offensive security, training, and the philosophy of education. New essays appear there first; the Writing page collects them.\n\n\nMaven ↗\nCohort-based courses on practical offensive security and instructional design (in development). Listed under Teaching.\n\n\nGitHub ↗\nOffensive security tooling, lab automation, and instructional utilities. Curated on Projects.\n\n\nYouTube ↗\nWalk-throughs, talks, and instructional design notes. Indexed on Speaking.\n\n\nThis site\nThe hub, bio, CV, Publications, and how to reach me."
-  },
-  {
-    "objectID": "index.html#currently",
-    "href": "index.html#currently",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "Currently",
-    "text": "Currently\n\nTeaching across cybersecurity, computer science, aviation, and aerospace topics, see Teaching.\nRunning cohort-based courses for working professionals on Maven.\nWriting on cybersecurity training, offensive security, and instructional design, on Medium and here.\nOpen to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.\nAvailable for selective consulting in cybersecurity training program design and offensive security assessment scoping."
-  },
-  {
-    "objectID": "index.html#writing-speaking",
-    "href": "index.html#writing-speaking",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "Writing & speaking",
-    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "The fastest way to reach me is email. A current resume is available on request."
-  },
-  {
-    "objectID": "contact.html#what-i-am-open-to",
-    "href": "contact.html#what-i-am-open-to",
-    "title": "Contact",
-    "section": "What I am open to",
-    "text": "What I am open to\n\nFaculty conversations. Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.\nMaven cohort partnerships. Co-instructors, sponsors, and learners interested in offensive security and instructional design cohorts. See Teaching.\nConsulting engagements. Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.\nSpeaking and guest lectures. See Speaking.\n\nIf you are reaching out about a faculty role, a brief note about the program and the timing of the search is the most useful thing you can include in a first email."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
-  },
-  {
-    "objectID": "about.html#the-short-version",
-    "href": "about.html#the-short-version",
-    "title": "About",
-    "section": "",
-    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\nEd.D., Educational Leadership (4.0 GPA)\nLiberty University\nAug 2022\n\n\nM.S., Information Technology (4.0 GPA)\nUniversity of Maryland Global Campus\nMay 2019\n\n\nB.S., Computer Studies (3.8 GPA)\nUniversity of Maryland Global Campus\nJun 2010"
-  },
-  {
-    "objectID": "about.html#clearance-certifications",
-    "href": "about.html#clearance-certifications",
-    "title": "About",
-    "section": "Clearance & certifications",
-    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nLinear Algebra I & II Certificate (Linear Equations & Matrix Algebra)\nFAA Part 107 Small Unmanned Aircraft Systems\nProfessional Manager Certification"
-  },
-  {
-    "objectID": "about.html#teaching-philosophy",
-    "href": "about.html#teaching-philosophy",
-    "title": "About",
-    "section": "Teaching philosophy",
-    "text": "Teaching philosophy\nThe students I have taught in uniform have ranged from new lieutenants meeting cybersecurity for the first time to mid-career operators preparing for technical assignments. The lesson I keep coming back to is this: people learn cybersecurity by doing it, not by reading about it. My role as an instructor is to design experiences where the gap between concept and practice is as short as possible, then to coach honest reflection on what worked and what did not.\nThat belief shapes my doctoral work, my course design, and the way I plan to teach in a university setting. It is also why my course materials lean heavily on lab work, written deliverables, and verbal debriefs, the three places where shallow understanding gets exposed."
-  },
-  {
-    "objectID": "about.html#what-i-do-outside-of-work",
-    "href": "about.html#what-i-do-outside-of-work",
-    "title": "About",
-    "section": "What I do outside of work",
-    "text": "What I do outside of work\nOutside of professional projects I follow my kids’ sports, collect and trade graded sports cards and Magic: The Gathering, and read across cognitive science, comparative religion, and infrastructure topics."
+    "text": "Read on Medium →\n\nYou type curl https://example.com and hit enter. 200 milliseconds later, the server’s response is on your screen. In that 200 milliseconds, a lot happened.\n\nThe first module in the Cleartext series. Walks through the path a packet takes from your terminal to a remote server and back, then maps the categories of attack that live at each layer. Designed as the foundation that later modules build on."
   },
   {
     "objectID": "cv.html",
@@ -238,11 +161,95 @@
     "text": "References\nAvailable on request."
   },
   {
-    "objectID": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
-    "href": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
-    "title": "Cleartext, Module 1: The Path of a Packet",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Read on Medium →\n\nYou type curl https://example.com and hit enter. 200 milliseconds later, the server’s response is on your screen. In that 200 milliseconds, a lot happened.\n\nThe first module in the Cleartext series. Walks through the path a packet takes from your terminal to a remote server and back, then maps the categories of attack that live at each layer. Designed as the foundation that later modules build on."
+    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
+  },
+  {
+    "objectID": "about.html#the-short-version",
+    "href": "about.html#the-short-version",
+    "title": "About",
+    "section": "",
+    "text": "I serve in the U.S. Air Force, currently assigned as a Cyber Master Instructor and Acting Director of Operations at one of the Air Force’s primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.\nMy focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.\nI have delivered 3,000+ hours of advanced classroom instruction, supervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and contributed to graduating 1,398 students."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nEd.D., Educational Leadership (4.0 GPA)\nLiberty University\nAug 2022\n\n\nM.S., Information Technology (4.0 GPA)\nUniversity of Maryland Global Campus\nMay 2019\n\n\nB.S., Computer Studies (3.8 GPA)\nUniversity of Maryland Global Campus\nJun 2010"
+  },
+  {
+    "objectID": "about.html#clearance-certifications",
+    "href": "about.html#clearance-certifications",
+    "title": "About",
+    "section": "Clearance & certifications",
+    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nLinear Algebra I & II Certificate (Linear Equations & Matrix Algebra)\nFAA Part 107 Small Unmanned Aircraft Systems\nProfessional Manager Certification"
+  },
+  {
+    "objectID": "about.html#teaching-philosophy",
+    "href": "about.html#teaching-philosophy",
+    "title": "About",
+    "section": "Teaching philosophy",
+    "text": "Teaching philosophy\nThe students I have taught in uniform have ranged from new lieutenants meeting cybersecurity for the first time to mid-career operators preparing for technical assignments. The lesson I keep coming back to is this: people learn cybersecurity by doing it, not by reading about it. My role as an instructor is to design experiences where the gap between concept and practice is as short as possible, then to coach honest reflection on what worked and what did not.\nThat belief shapes my doctoral work, my course design, and the way I plan to teach in a university setting. It is also why my course materials lean heavily on lab work, written deliverables, and verbal debriefs, the three places where shallow understanding gets exposed."
+  },
+  {
+    "objectID": "about.html#what-i-do-outside-of-work",
+    "href": "about.html#what-i-do-outside-of-work",
+    "title": "About",
+    "section": "What I do outside of work",
+    "text": "What I do outside of work\nOutside of professional projects I follow my kids’ sports, collect and trade graded sports cards and Magic: The Gathering, and read across cognitive science, comparative religion, and infrastructure topics."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The fastest way to reach me is email. A current resume is available on request."
+  },
+  {
+    "objectID": "contact.html#what-i-am-open-to",
+    "href": "contact.html#what-i-am-open-to",
+    "title": "Contact",
+    "section": "What I am open to",
+    "text": "What I am open to\n\nFaculty conversations. Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.\nMaven cohort partnerships. Co-instructors, sponsors, and learners interested in offensive security and instructional design cohorts. See Teaching.\nConsulting engagements. Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.\nSpeaking and guest lectures. See Speaking.\n\nIf you are reaching out about a faculty role, a brief note about the program and the timing of the search is the most useful thing you can include in a first email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "",
+    "text": "I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force’s primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.\nMy background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.\nI hold CISSP, OSCP, OSWP, Security+, TS/SCI, and CCAF Master Instructor credentials, and I am pursuing PMP and FAA Airframe and Powerplant certification through the military experience pathway.\nIf you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a cohort course or guest lecture, I would be glad to talk: brandon.r.russell.1@gmail.com.\nFull CV   Email"
+  },
+  {
+    "objectID": "index.html#how-this-site-is-organized",
+    "href": "index.html#how-this-site-is-organized",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "How this site is organized",
+    "text": "How this site is organized\nThis site is the index. The work itself lives where the audience for it lives:\n\n\n\nWhere\nWhat I do there\n\n\n\n\nMedium ↗\nWriting on offensive security, training, and the philosophy of education. New essays appear there first; the Writing page collects them.\n\n\nMaven ↗\nCohort-based courses on practical offensive security and instructional design (in development). Listed under Teaching.\n\n\nGitHub ↗\nOffensive security tooling, lab automation, and instructional utilities. Curated on Projects.\n\n\nYouTube ↗\nWalk-throughs, talks, and instructional design notes. Indexed on Speaking.\n\n\nThis site\nThe hub, bio, CV, Publications, and how to reach me."
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Currently",
+    "text": "Currently\n\nTeaching across cybersecurity, computer science, aviation, and aerospace topics, see Teaching.\nRunning cohort-based courses for working professionals on Maven.\nWriting on cybersecurity training, offensive security, and instructional design, on Medium and here.\nOpen to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.\nAvailable for selective consulting in cybersecurity training program design and offensive security assessment scoping."
+  },
+  {
+    "objectID": "index.html#writing-speaking",
+    "href": "index.html#writing-speaking",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Writing & speaking",
+    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
+  },
+  {
+    "objectID": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
+    "href": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
+    "title": "Cleartext, Module 2: Layer 2, Frames, MACs, and Switches",
+    "section": "",
+    "text": "Read on Medium →\n\nIn Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.\n\nThe second module in the Cleartext series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module."
   },
   {
     "objectID": "publications.html",

@@ -6,9 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Articles on cybersecurity training, offensive security, and military aviation.">
+<meta name="dcterms.date" content="2026-05-03">
+<meta name="description" content="And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.">
 
-<title>Writing – Brandon Russell</title>
+<title>Cleartext, Module 2: Layer 2, Frames, MACs, and Switches – Brandon Russell</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -27,29 +28,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4306a96e0fd97bdc90d1f72745ddc266.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-68e5399e64d4cba2567f019335977548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-4306a96e0fd97bdc90d1f72745ddc266.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/favicon.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-4306a96e0fd97bdc90d1f72745ddc266.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-68e5399e64d4cba2567f019335977548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-4306a96e0fd97bdc90d1f72745ddc266.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,73 +76,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posts'] = new List('listing-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Brandon Russell, Writing" href="writing.xml" data-external="1"><meta property="og:title" content="Writing – Brandon Russell">
-<meta property="og:description" content="Articles on cybersecurity training, offensive security, and military aviation.">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Cleartext, Module 2: Layer 2, Frames, MACs, and Switches – Brandon Russell">
+<meta property="og:description" content="And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.">
 <meta property="og:site_name" content="Brandon Russell">
-<meta name="twitter:title" content="Writing – Brandon Russell">
-<meta name="twitter:description" content="Articles on cybersecurity training, offensive security, and military aviation.">
+<meta name="twitter:title" content="Cleartext, Module 2: Layer 2, Frames, MACs, and Switches – Brandon Russell">
+<meta name="twitter:description" content="And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.">
 <meta name="twitter:creator" content="@Dr_BRussell">
 <meta name="twitter:site" content="@Dr_BRussell">
 <meta name="twitter:card" content="summary">
@@ -318,7 +259,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Brandon Russell</span>
     </a>
   </div>
@@ -329,39 +270,39 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./writing.html" aria-current="page"> 
+    <a class="nav-link" href="../../writing.html"> 
 <span class="menu-text">Writing</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./speaking.html"> 
+    <a class="nav-link" href="../../speaking.html"> 
 <span class="menu-text">Speaking</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html"> 
+    <a class="nav-link" href="../../cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -415,12 +356,17 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Writing</h1>
-</div>
+<h1 class="title">Cleartext, Module 2: Layer 2, Frames, MACs, and Switches</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">cybersecurity</div>
+    <div class="quarto-category">networking</div>
+    <div class="quarto-category">cleartext</div>
+  </div>
+  </div>
 
 <div>
   <div class="description">
-    Articles on cybersecurity training, offensive security, and military aviation.
+    And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.
   </div>
 </div>
 
@@ -428,6 +374,12 @@ window.Quarto = {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 3, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -437,76 +389,13 @@ window.Quarto = {
 </header>
 
 
-<p>I publish on <a href="https://medium.com/@brandon.r.russell.1">Medium</a>. Peer-reviewed and trade publications are listed on <a href="./publications.html">Publications</a>.</p>
-<section id="posts" class="level2">
-<h2 class="anchored" data-anchor-id="posts">Posts</h2>
-<div id="listing-posts" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table table-hover">
-<thead>
-<tr>
-
-<th>
-Date
-</th>
-
-<th>
-Title
-</th>
-
-<th>
-Description
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-categories="Y3liZXJzZWN1cml0eSUyQ25ldHdvcmtpbmclMkNjbGVhcnRleHQ=" data-listing-date-sort="1777784400000" data-listing-file-modified-sort="1777848367706" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="97" data-listing-title-sort="Cleartext, Module 2: Layer 2, Frames, MACs, and Switches" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">May 3, 2026</span>
-</td>
-<td>
-<a href="./posts/2026-05-03-cleartext-module-2-layer-2/index.html" class="title listing-title">Cleartext, Module 2: Layer 2, Frames, MACs, and Switches</a>
-</td>
-<td>
-<span class="listing-description">And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping.</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-categories="Y3liZXJzZWN1cml0eSUyQ25ldHdvcmtpbmclMkNjbGVhcnRleHQ=" data-listing-date-sort="1777179600000" data-listing-file-modified-sort="1777234361381" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="70" data-listing-title-sort="Cleartext, Module 1: The Path of a Packet" data-listing-filename-sort="index.qmd" onclick="href = this.querySelector('a').getAttribute('href');
- if (href) { window.location=href ; return false; }">
-<td>
-<span class="listing-date">Apr 26, 2026</span>
-</td>
-<td>
-<a href="./posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html" class="title listing-title">Cleartext, Module 1: The Path of a Packet</a>
-</td>
-<td>
-<span class="listing-description">And why every cyberattack you’ll ever read about lives somewhere on it. A foundational walk-through of how a packet actually traverses the network stack, with attack surface mapped to each layer.</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="topics-i-write-about" class="level2">
-<h2 class="anchored" data-anchor-id="topics-i-write-about">Topics I write about</h2>
-<p>Cybersecurity education, training program design, offensive security operations, military aviation systems, the transition from military to academic and consulting careers, and occasionally cognitive science, the philosophy of education, and systems thinking.</p>
+<p><a href="https://medium.com/@brandon.r.russell.1/cleartext-module-2-layer-2-frames-macs-and-switches-d45e27462da2"><strong>Read on Medium →</strong></a></p>
+<blockquote class="blockquote">
+<p>In Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.</p>
+</blockquote>
+<p>The second module in the <em>Cleartext</em> series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module.</p>
 
 
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -977,5 +866,5 @@ Description
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

@@ -10,7 +10,31 @@
 <atom:link href="https://brandonrussell.io/writing.xml" rel="self" type="application/rss+xml"/>
 <description>Articles on cybersecurity training, offensive security, and military aviation.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Sun, 26 Apr 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 03 May 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cleartext, Module 2: Layer 2, Frames, MACs, and Switches</title>
+  <link>https://brandonrussell.io/posts/2026-05-03-cleartext-module-2-layer-2/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://medium.com/@brandon.r.russell.1/cleartext-module-2-layer-2-frames-macs-and-switches-d45e27462da2"><strong>Read on Medium →</strong></a></p>
+<blockquote class="blockquote">
+<p>In Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.</p>
+</blockquote>
+<p>The second module in the <em>Cleartext</em> series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module.</p>
+
+
+
+ ]]></description>
+  <category>cybersecurity</category>
+  <category>networking</category>
+  <category>cleartext</category>
+  <guid>https://brandonrussell.io/posts/2026-05-03-cleartext-module-2-layer-2/</guid>
+  <pubDate>Sun, 03 May 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Cleartext, Module 1: The Path of a Packet</title>
   <link>https://brandonrussell.io/posts/2026-04-26-cleartext-module-1-path-of-a-packet/</link>
