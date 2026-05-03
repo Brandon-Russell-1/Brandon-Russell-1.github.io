@@ -2093,7 +2093,6 @@ url("./bootstrap-icons.woff?e34853135f9e39acf64315236852cd5a") format("woff");
 .bi-battery-low::before { content: "\f911"; }
 .bi-anthropic::before { content: "\f912"; }
 .bi-apple-music::before { content: "\f913"; }
-.bi-claude::before { content: "\f914"; }
 .bi-openai::before { content: "\f915"; }
 .bi-perplexity::before { content: "\f916"; }
 .bi-css::before { content: "\f917"; }
