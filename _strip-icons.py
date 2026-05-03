@@ -13,7 +13,7 @@ from pathlib import Path
 # Codepoints (Unicode PUA) of vendor icon classes to strip from the
 # bundled bootstrap-icons.css before publish. These icons are not used
 # anywhere on the site.
-DROP_CODEPOINTS = {"f914"}
+DROP_CODEPOINTS = {"f912", "f914"}
 
 site = Path(os.environ.get("QUARTO_PROJECT_OUTPUT_DIR", "_site"))
 target = site / "site_libs" / "bootstrap" / "bootstrap-icons.css"
