@@ -1,0 +1,12 @@
+---
+title: "Cleartext, Module 2: Layer 2, Frames, MACs, and Switches"
+description: "And why the attacker sitting next to you on the coffee shop wifi already owns the network. Layer 2 attacks: ARP spoofing, MAC flooding, and VLAN hopping."
+date: 2026-05-03
+categories: [cybersecurity, networking, cleartext]
+---
+
+[**Read on Medium →**](https://medium.com/@brandon.r.russell.1/cleartext-module-2-layer-2-frames-macs-and-switches-d45e27462da2)
+
+> In Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.
+
+The second module in the *Cleartext* series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module.
