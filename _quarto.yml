@@ -3,6 +3,8 @@ project:
   output-dir: _site
   resources:
     - "CNAME"
+  post-render:
+    - python _strip-icons.py
 
 website:
   title: "Brandon Russell"
