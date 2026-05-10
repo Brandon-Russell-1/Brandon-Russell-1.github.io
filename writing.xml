@@ -10,7 +10,31 @@
 <atom:link href="https://brandonrussell.io/writing.xml" rel="self" type="application/rss+xml"/>
 <description>Articles on cybersecurity training, offensive security, and military aviation.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Sun, 03 May 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Cleartext, Module 3: Layer 3, IP, Routing, and ICMP</title>
+  <link>https://brandonrussell.io/posts/2026-05-10-cleartext-module-3-layer-3/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="https://medium.com/@brandon.r.russell.1/cleartext-587798a3f288"><strong>Read on Medium →</strong></a></p>
+<blockquote class="blockquote">
+<p>In Module 2 we watched a frame get handed off from one device to another on a single segment of wire. That’s a useful trick if everything you care about lives in the same room. It is not how the internet works.</p>
+</blockquote>
+<p>The third module in the <em>Cleartext</em> series. Moves past the single-segment view of Module 2 and walks Layer 3: how IP addresses identify hosts across a network nobody owns, how routing decisions get made, what ICMP actually does, and the security weaknesses baked into each. The module that explains why “the internet” works at all.</p>
+
+
+
+ ]]></description>
+  <category>cybersecurity</category>
+  <category>networking</category>
+  <category>cleartext</category>
+  <guid>https://brandonrussell.io/posts/2026-05-10-cleartext-module-3-layer-3/</guid>
+  <pubDate>Sun, 10 May 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Cleartext, Module 2: Layer 2, Frames, MACs, and Switches</title>
   <link>https://brandonrussell.io/posts/2026-05-03-cleartext-module-2-layer-2/</link>
