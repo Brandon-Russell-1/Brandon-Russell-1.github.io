@@ -63,6 +63,11 @@ Curriculum Design & Development &nbsp;·&nbsp; Course & Assessment Design &nbsp;
 - Built a SharePoint solution across **58 Air Force units**, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.
 - Developed database systems for aircraft operations, handling **10K sorties** and **$29M in assets** with SQL backends supporting trend analysis and continuity.
 
+### Aviation systems
+
+- Spent over a decade as an aviation mechanic on the **C-5, C-17, and E-8C** airframes, supporting **4,488 missions** worldwide.
+- Developed deep expertise across jet engines, electrical power, bleed air, environmental control, fire warning, and emergency oxygen systems, methodically isolating faults from schematics and technical orders to return aircraft to flight.
+
 ## Work history
 
 **United States Air Force**
