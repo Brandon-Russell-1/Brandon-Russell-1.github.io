@@ -1,0 +1,12 @@
+---
+title: "Cleartext, Module 3: Layer 3, IP, Routing, and ICMP"
+description: "And how a packet finds its way across a network nobody actually owns. IP addressing, routing protocols, ICMP, and the security weaknesses baked into each."
+date: 2026-05-10
+categories: [cybersecurity, networking, cleartext]
+---
+
+[**Read on Medium →**](https://medium.com/@brandon.r.russell.1/cleartext-587798a3f288)
+
+> In Module 2 we watched a frame get handed off from one device to another on a single segment of wire. That's a useful trick if everything you care about lives in the same room. It is not how the internet works.
+
+The third module in the *Cleartext* series. Moves past the single-segment view of Module 2 and walks Layer 3: how IP addresses identify hosts across a network nobody owns, how routing decisions get made, what ICMP actually does, and the security weaknesses baked into each. The module that explains why "the internet" works at all.
