@@ -33,6 +33,7 @@ University of Maryland Global Campus, Adelphi, MD
 - OffSec Wireless Professional (OSWP)
 - CompTIA Security+ ce
 - Certified Master Instructor
+- Project Management Professional (PMP)
 - Linear Algebra I & II Certificate: Linear Equations & Matrix Algebra
 - FAA Part 107 Small Unmanned Aircraft Systems License
 - Professional Manager Certification
