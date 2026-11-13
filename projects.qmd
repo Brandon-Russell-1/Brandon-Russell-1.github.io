@@ -21,6 +21,12 @@ A selection of public technical work. Source on [GitHub](https://github.com/Bran
 |---|---|---|
 | **[DiscordWebHashBot](https://github.com/Brandon-Russell-1/DiscordWebHashBot)** | Python | Monitors a website for content changes on a 24-hour interval and reports updates to a Discord channel, small but useful for tracking advisories or course-relevant pages. |
 
+## Teaching series
+
+| | | |
+|---|---|---|
+| **[Cleartext](writing.qmd)** | Writing | A module-by-module walk through the network stack, mapping the attacks that live at each layer. Published on Medium and indexed on [Writing](writing.qmd). |
+
 ## Open-source contributions
 
 I contribute back to the open-source projects I use. See merged pull requests on my [GitHub profile](https://github.com/Brandon-Russell-1).

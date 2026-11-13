@@ -3,7 +3,7 @@ title: "Contact"
 description: "Email, LinkedIn, location, and what I am open to."
 ---
 
-The fastest way to reach me is email. A current resume is available on request.
+The fastest way to reach me is email. My [resume (PDF)](files/brandon-russell-resume.pdf) is available to download.
 
 |  |  |
 |---|---|
@@ -17,7 +17,6 @@ The fastest way to reach me is email. A current resume is available on request.
 ## What I am open to
 
 - **Faculty conversations.** Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.
-- **Maven cohort partnerships.** Co-instructors, sponsors, and learners interested in offensive security and instructional design cohorts. See [Teaching](teaching.qmd#maven-cohort-courses).
 - **Consulting engagements.** Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.
 - **Speaking and guest lectures.** See [Speaking](speaking.qmd).
 

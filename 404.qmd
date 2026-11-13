@@ -1,0 +1,8 @@
+---
+title: "Page not found"
+description: "That page does not exist."
+---
+
+The page you were looking for is not here. It may have moved, or the link may be out of date.
+
+[Home](index.qmd){.btn .btn-primary} &nbsp; [Writing](writing.qmd){.btn .btn-outline-secondary} &nbsp; [Contact](contact.qmd){.btn .btn-outline-secondary}

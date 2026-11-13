@@ -3,7 +3,7 @@
 /*  Minimal, hamel.dev-inspired typography and listings.                   */
 /* ----------------------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=JetBrains+Mono:wght@400;600&display=swap');
+/* Web fonts are loaded with <link> tags from _quarto.yml (include-in-header). */
 
 :root {
   --br-ink:        #1a1a1a;
@@ -66,6 +66,44 @@ a:hover {
 }
 .navbar a, .footer a, .about-links a, a.btn { border-bottom: none !important; }
 
+/* Body-copy links are underlined so they are not identified by colour alone. */
+main.content a:not(.btn):not(.about-link):not(.anchorjs-link) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  border-bottom: none;
+}
+main.content a:not(.btn):not(.about-link):not(.anchorjs-link):hover {
+  text-decoration-thickness: 2px;
+}
+
+/* ---------- Home page stat strip ---------------------------------------- */
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.stat {
+  border-top: 2px solid var(--br-accent);
+  padding-top: 0.6rem;
+  color: var(--br-muted);
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+.stat p { margin: 0; }
+.stat-num {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: var(--br-ink);
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 700px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+}
+
 /* ---------- Navbar ------------------------------------------------------ */
 
 .navbar {
@@ -93,6 +131,9 @@ a:hover {
 
 .about-entity .about-image {
   max-width: 16em;
+  height: auto !important;   /* override the inline height so the photo stays circular when max-width shrinks it */
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   border-radius: 50% !important;
   box-shadow: 0 6px 24px rgba(0,0,0,0.08);
 }

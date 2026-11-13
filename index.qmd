@@ -1,11 +1,12 @@
 ---
 title: "Brandon Russell, Ed.D."
-subtitle: "Cybersecurity educator and U.S. Air Force cyber officer. I write on Medium, teach on Maven, build on GitHub, and index it all here."
+subtitle: "Cybersecurity educator and U.S. Air Force cyber officer. I write on Medium, build on GitHub, and index it all here."
 pagetitle: "Brandon Russell"
 description-meta: "Personal site of Brandon Russell, cybersecurity educator, U.S. Air Force cyber officer, and Ed.D. in educational leadership. Hub for writing, courses, software projects, and publications."
 about:
   template: trestles
   image: images/profile.jpg
+  image-alt: "Portrait of Brandon Russell"
   image-shape: round
   image-width: 16em
   links:
@@ -27,6 +28,31 @@ about:
     - icon: envelope
       text: Email
       href: mailto:brandon.r.russell.1@gmail.com
+include-in-header:
+  - text: |
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Brandon Russell",
+        "honorificSuffix": "Ed.D.",
+        "url": "https://brandonrussell.io",
+        "image": "https://brandonrussell.io/images/profile.jpg",
+        "jobTitle": "Cybersecurity educator and U.S. Air Force cyber officer",
+        "alumniOf": [
+          {"@type": "CollegeOrUniversity", "name": "Liberty University"},
+          {"@type": "CollegeOrUniversity", "name": "University of Maryland Global Campus"}
+        ],
+        "knowsAbout": ["Cybersecurity", "Offensive security", "Instructional design", "Aviation systems"],
+        "sameAs": [
+          "https://www.linkedin.com/in/brandon-r-russell/",
+          "https://github.com/Brandon-Russell-1",
+          "https://x.com/Dr_BRussell",
+          "https://www.youtube.com/@Dr.BrandonRussell",
+          "https://medium.com/@brandon.r.russell.1"
+        ]
+      }
+      </script>
 ---
 
 I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force's primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.
@@ -35,30 +61,40 @@ My background spans two technical worlds. I came up through aircraft electrical 
 
 I hold **CISSP**, **OSCP**, **OSWP**, **Security+**, **PMP**, **TS/SCI**, and **CCAF Master Instructor** credentials, and I am pursuing **FAA Airframe and Powerplant** certification through the military experience pathway.
 
-If you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a cohort course or guest lecture, I would be glad to talk: [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com).
+If you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a guest lecture, I would be glad to talk: [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com).
 
-[Full CV](cv.qmd){.btn .btn-primary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
+[Full CV](cv.qmd){.btn .btn-primary} &nbsp; [Resume (PDF)](files/brandon-russell-resume.pdf){.btn .btn-outline-secondary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
 
-## How this site is organized
+## By the numbers
 
-This site is the index. The work itself lives where the audience for it lives:
+::: {.stats}
+::: {.stat}
+[3,000+]{.stat-num} hours of classroom instruction
+:::
+::: {.stat}
+[1,398]{.stat-num} students graduated
+:::
+::: {.stat}
+[153]{.stat-num} courses reviewed
+:::
+::: {.stat}
+[21]{.stat-num} instructors supervised
+:::
+:::
 
-| Where | What I do there |
-|---|---|
-| [**Medium** ↗](https://medium.com/@brandon.r.russell.1) | Writing on offensive security, training, and the philosophy of education. New essays appear there first; the [Writing](writing.qmd) page collects them. |
-| [**Maven** ↗](teaching.qmd#maven-cohort-courses) | Cohort-based courses on practical offensive security and instructional design (in development). Listed under [Teaching](teaching.qmd). |
-| [**GitHub** ↗](https://github.com/Brandon-Russell-1) | Offensive security tooling, lab automation, and instructional utilities. Curated on [Projects](projects.qmd). |
-| [**YouTube** ↗](https://www.youtube.com/@Dr.BrandonRussell) | Walk-throughs, talks, and instructional design notes. Indexed on [Speaking](speaking.qmd). |
-| [**This site**](about.qmd) | The hub, bio, [CV](cv.qmd), [Publications](publications.qmd), and how to [reach me](contact.qmd). |
+## Selected work
+
+- **[The United States Air Force pilot diversity dilemma](https://doi.org/10.1108/edi-10-2022-0297).** Peer-reviewed, *Equality, Diversity and Inclusion: An International Journal* (2023).
+- **Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater.** Peer-reviewed, *Joint Force Quarterly* (forthcoming).
+- **Building a password cracker using OpenAI and Rust.** *2600: The Hacker Quarterly* (Spring 2025), with [companion code](https://github.com/Brandon-Russell-1/RustPasswordCracker) on GitHub.
+- **[Cleartext](writing.qmd).** A series that walks the network stack one layer at a time and maps the attacks that live at each one.
+
+The full list is on [Publications](publications.qmd), with code on [Projects](projects.qmd).
 
 ## Currently
 
 - Teaching across cybersecurity, computer science, aviation, and aerospace topics, see [Teaching](teaching.qmd).
-- Running cohort-based courses for working professionals on [Maven](teaching.qmd#maven-cohort-courses).
 - Writing on cybersecurity training, offensive security, and instructional design, on [Medium](https://medium.com/@brandon.r.russell.1) and [here](writing.qmd).
 - Open to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.
 - Available for selective consulting in cybersecurity training program design and offensive security assessment scoping.
-
-## Writing & speaking
-
-See [Writing](writing.qmd), [Publications](publications.qmd), [Medium](https://medium.com/@brandon.r.russell.1), and [YouTube](https://www.youtube.com/@Dr.BrandonRussell).
+- Available for guest lectures and seminars, see [Speaking](speaking.qmd).

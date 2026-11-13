@@ -1,83 +1,62 @@
 # Brandon Russell - personal site
 
-A Quarto-based static site for a professional / academic web presence.
+Source for [brandonrussell.io](https://brandonrussell.io), a static site built with [Quarto](https://quarto.org).
 
-## What's here
+## Layout
 
 ```
-website/
-├── _quarto.yml          # site config: nav, footer, theme
-├── styles.css           # typography and small style tweaks
-├── index.qmd            # landing page (hero + currently)
-├── about.qmd            # bio, education, certs, philosophy
-├── teaching.qmd         # courses, manuals, instructional role
-├── writing.qmd          # Medium link, working papers, post listing
-├── speaking.qmd         # YouTube, talks, booking
-├── projects.qmd         # GitHub work
-├── cv.qmd               # CV summary + PDF download
-├── contact.qmd          # email, LinkedIn, what you're open to
-├── images/              # profile photo etc. (create this)
-├── files/               # CV PDF and other downloads (create this)
-└── posts/               # optional: short posts surfaced on writing.qmd
+_quarto.yml          site config: nav, footer, theme, fonts, social card
+styles.css           typography and style overrides (light and dark)
+index.qmd            landing page
+about.qmd            bio, education, certifications, teaching philosophy
+teaching.qmd         teaching areas and current role
+writing.qmd          post listing and RSS feed
+publications.qmd     peer-reviewed, trade, and self-published work
+projects.qmd         GitHub projects
+speaking.qmd         video and booking (linked from Teaching and Contact)
+cv.qmd               CV
+contact.qmd          contact details
+404.qmd              not-found page
+posts/               one folder per post, each with an index.qmd
+images/              profile photo, favicon, social share card
+files/               public resume PDF (phone number removed)
+_strip-icons.py      post-render hook that trims unused Bootstrap Icons CSS
 ```
 
-## One-time setup
-
-1. Install Quarto: <https://quarto.org/docs/get-started/>
-2. Create the asset folders:
-   ```bash
-   cd website
-   mkdir -p images files posts
-   ```
-3. Drop a profile photo at `images/profile.jpg` and a CV at `files/brandon-russell-cv.pdf`.
-4. Find-and-replace `YOUR_HANDLE` and `you@yourdomain.com` across the `.qmd` files and `_quarto.yml`.
-
-## Preview locally
+## Preview and build
 
 ```bash
-quarto preview
+quarto preview    # live-reloading local preview
+quarto render     # build into _site/
 ```
 
-Hot-reloads in your browser as you edit.
+Rendering needs Python on the PATH for the post-render hook.
 
-## Build the static site
+## Deploy
+
+Pushing to `main` runs `.github/workflows/publish.yml`, which renders the site and publishes it to the `gh-pages` branch. To publish by hand instead:
 
 ```bash
-quarto render
+quarto publish gh-pages
 ```
-
-Output lands in `_site/`.
-
-## Deploy to GitHub Pages
-
-The simplest path:
-
-1. Create a new GitHub repo (public).
-2. Push this `website/` folder to it.
-3. In repo settings, enable GitHub Pages and point it at the `gh-pages` branch.
-4. Use Quarto's built-in publish command:
-   ```bash
-   quarto publish gh-pages
-   ```
-5. Add a custom domain (e.g. `brandonrussell.com`) in repo Settings -> Pages, then set up the DNS records your registrar tells you to.
-
-## Notes on style
-
-The copy throughout uses hyphens rather than em dashes, plain language, Arial typeface. The cosmo theme is a clean default; if you want a more academic look, swap `theme: cosmo` in `_quarto.yml` for `litera`, `flatly`, or `journal`.
 
 ## Add a post
 
-Create `posts/YYYY-MM-DD-slug.qmd`:
+Create `posts/YYYY-MM-DD-slug/index.qmd`:
 
 ```markdown
 ---
 title: "Post title"
-date: 2026-04-25
 description: "One-sentence summary."
+date: 2026-04-25
 categories: [cybersecurity, teaching]
 ---
 
 Post body here.
 ```
 
-It will automatically appear in the listing on `writing.qmd`.
+It appears automatically in the listing on `writing.qmd` and in the RSS feed.
+
+## Style notes
+
+Copy uses hyphens and commas instead of em dashes, and plain language throughout. Body text is Source Sans 3; code is JetBrains Mono.

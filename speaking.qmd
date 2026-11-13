@@ -1,15 +1,11 @@
 ---
 title: "Speaking"
-description: "Video, talks, and how to book."
+description: "Video and how to book a guest lecture or talk."
 ---
 
 ## Video
 
 I publish video content on [YouTube, @Dr.BrandonRussell](https://www.youtube.com/@Dr.BrandonRussell) covering cybersecurity training topics, offensive security walk-throughs, and reflections on instructional design.
-
-## Talks and presentations
-
-Coming soon.
 
 ## Booking
 

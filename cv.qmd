@@ -6,9 +6,7 @@ toc-depth: 2
 toc-location: right
 ---
 
-[LinkedIn](https://www.linkedin.com/in/brandon-r-russell/){.btn .btn-primary} &nbsp; [GitHub](https://github.com/Brandon-Russell-1){.btn .btn-outline-secondary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
-
-A current resume is available on request.
+[Download resume (PDF)](files/brandon-russell-resume.pdf){.btn .btn-primary} &nbsp; [LinkedIn](https://www.linkedin.com/in/brandon-r-russell/){.btn .btn-outline-secondary} &nbsp; [GitHub](https://github.com/Brandon-Russell-1){.btn .btn-outline-secondary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
 
 ## Summary
 
@@ -46,7 +44,7 @@ Curriculum Design & Development &nbsp;·&nbsp; Course & Assessment Design &nbsp;
 
 ### Teaching & curriculum
 
-- Delivered **3,000 hours** of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.
+- Delivered **3,000+ hours** of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.
 - Supervised **21 instructors**, reviewed **153 courses** covering **3,000 learning objectives**, and mentored faculty in lesson design and assessment, graduating **1,398 students**.
 
 ### Cybersecurity & leadership
