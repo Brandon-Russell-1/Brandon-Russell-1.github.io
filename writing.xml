@@ -9,8 +9,13 @@
 <link>https://brandonrussell.io/writing.html</link>
 <atom:link href="https://brandonrussell.io/writing.xml" rel="self" type="application/rss+xml"/>
 <description>Articles on cybersecurity training, offensive security, and military aviation.</description>
+<image>
+<url>https://brandonrussell.io/images/social-card.png</url>
+<title>Brandon Russell, Writing</title>
+<link>https://brandonrussell.io/writing.html</link>
+</image>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Sun, 10 May 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Cleartext, Module 3: Layer 3, IP, Routing, and ICMP</title>
   <link>https://brandonrussell.io/posts/2026-05-10-cleartext-module-3-layer-3/</link>
@@ -33,7 +38,7 @@
   <category>networking</category>
   <category>cleartext</category>
   <guid>https://brandonrussell.io/posts/2026-05-10-cleartext-module-3-layer-3/</guid>
-  <pubDate>Sun, 10 May 2026 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Cleartext, Module 2: Layer 2, Frames, MACs, and Switches</title>
@@ -57,7 +62,7 @@
   <category>networking</category>
   <category>cleartext</category>
   <guid>https://brandonrussell.io/posts/2026-05-03-cleartext-module-2-layer-2/</guid>
-  <pubDate>Sun, 03 May 2026 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Cleartext, Module 1: The Path of a Packet</title>
@@ -81,7 +86,7 @@
   <category>networking</category>
   <category>cleartext</category>
   <guid>https://brandonrussell.io/posts/2026-04-26-cleartext-module-1-path-of-a-packet/</guid>
-  <pubDate>Sun, 26 Apr 2026 05:00:00 GMT</pubDate>
+  <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
