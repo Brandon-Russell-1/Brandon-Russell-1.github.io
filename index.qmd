@@ -55,7 +55,7 @@ include-in-header:
       </script>
 ---
 
-I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force's primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.
+I am a U.S. Air Force cyber officer, master instructor, and Director of Student Management at one of the Air Force's primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.
 
 My background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.
 
