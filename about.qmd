@@ -5,7 +5,7 @@ description: "Bio, education, certifications, and teaching philosophy."
 
 ## The short version
 
-I serve in the U.S. Air Force, currently assigned as a **Cyber Master Instructor and Acting Director of Operations** at one of the Air Force's primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.
+I serve in the U.S. Air Force, currently assigned as a **Cyber Master Instructor and Director of Student Management** at one of the Air Force's primary technical training schoolhouses. Earlier in my career I worked in aircraft electrical and avionics maintenance, which gave me a working understanding of the aviation systems I now teach about from a cybersecurity perspective. After commissioning, I spent my officer career in cyber and communications operations.
 
 My focus is shifting toward the next chapter: teaching cybersecurity and aviation systems at the university level, paired with selective consulting work.
 
