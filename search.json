@@ -1,152 +1,5 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Download resume (PDF)   LinkedIn   GitHub   Email"
-  },
-  {
-    "objectID": "cv.html#summary",
-    "href": "cv.html#summary",
-    "title": "Curriculum Vitae",
-    "section": "Summary",
-    "text": "Summary\nEducator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. CISSP, OSCP, and TS/SCI credentials plus 25+ years of operational experience support faculty contribution in cybersecurity and aviation programs."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nDoctor of Education, Educational Leadership   ·   4.0 GPA   ·   Aug 2022\nLiberty University, Lynchburg, VA\nMaster of Science, Information Technology   ·   4.0 GPA   ·   May 2019\nUniversity of Maryland Global Campus, Adelphi, MD\nBachelor of Science, Computer Studies   ·   3.8 GPA   ·   Jun 2010\nUniversity of Maryland Global Campus, Adelphi, MD"
-  },
-  {
-    "objectID": "cv.html#clearance-certifications",
-    "href": "cv.html#clearance-certifications",
-    "title": "Curriculum Vitae",
-    "section": "Clearance & certifications",
-    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nGIAC Exploit Researcher and Advanced Penetration Tester (GXPN)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nProject Management Professional (PMP)\nLinear Algebra I & II Certificate: Linear Equations & Matrix Algebra\nFAA Part 107 Small Unmanned Aircraft Systems License\nProfessional Manager Certification"
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "Curriculum Vitae",
-    "section": "Skills",
-    "text": "Skills\nCurriculum Design & Development  ·  Course & Assessment Design  ·  Faculty Mentorship  ·  Technical Instruction  ·  Outcomes-Based Learning  ·  Cybersecurity Operations & Strategy  ·  Penetration Testing & Red Teaming  ·  Software Development & Coding  ·  Database Design & SQL  ·  AI Security & Offensive AI"
-  },
-  {
-    "objectID": "cv.html#professional-experience",
-    "href": "cv.html#professional-experience",
-    "title": "Curriculum Vitae",
-    "section": "Professional experience",
-    "text": "Professional experience\n\nTeaching & curriculum\n\nDelivered 3,000+ hours of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.\nSupervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and mentored faculty in lesson design and assessment, graduating 1,398 students.\n\n\n\nCybersecurity & leadership\n\nCommanded 103 personnel and directed C2 of 10K cyber forces for 638K joint warfighters; integrated kinetic and non-kinetic capabilities for unified global effects.\nLed a 51-person joint AF/Navy team managing a $54M cyber weapon system, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system.\n\n\n\nCyber effects\n\nLed cyber operations countering a supply chain hack, hardening 289 servers across 81 missions and blunting nation-state adversaries.\nConducted cyber surveillance for NORAD and Operation Noble Eagle, protecting the 2020 elections, the top priority of the USCYBERCOM commander.\n\n\n\nSoftware development\n\nBuilt a SharePoint solution across 58 Air Force units, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.\nDeveloped database systems for aircraft operations, handling 10K sorties and $29M in assets with SQL backends supporting trend analysis and continuity.\n\n\n\nAviation systems\n\nSpent over a decade as an aviation mechanic on the C-5, C-17, and E-8C airframes, supporting 4,488 missions worldwide.\nDeveloped deep expertise across jet engines, electrical power, bleed air, environmental control, fire warning, and emergency oxygen systems, methodically isolating faults from schematics and technical orders to return aircraft to flight."
-  },
-  {
-    "objectID": "cv.html#work-history",
-    "href": "cv.html#work-history",
-    "title": "Curriculum Vitae",
-    "section": "Work history",
-    "text": "Work history\nUnited States Air Force\n\n\n\n\n\n\n\n\n\nRole\nLocation\nYears\n\n\n\n\nCyber Master Instructor / Director of Student Management\nBiloxi, MS\n2026 – Present\n\n\nCyber Master Instructor / Acting Director of Operations\nBiloxi, MS\n2024 – 2026\n\n\nRecruiting Program Manager\nSan Antonio, TX\n2021 – 2024\n\n\nSenior Duty Officer, Cyber Operations\nSan Antonio, TX\n2020 – 2021\n\n\nFlight Commander, Cyber Operations\nCharleston, SC\n2017 – 2020\n\n\nSupervisor & Master Instructor\nWarner Robins, GA\n2011 – 2016\n\n\nAircraft Electrical Tech, DB Developer, IA Officer\nSpain & Azores\n2001 – 2011"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\nTeaching across cybersecurity, computer science, aviation, and aerospace topics. See Teaching for areas of expertise and current cohorts."
-  },
-  {
-    "objectID": "cv.html#selected-projects",
-    "href": "cv.html#selected-projects",
-    "title": "Curriculum Vitae",
-    "section": "Selected projects",
-    "text": "Selected projects\nSee Projects and GitHub."
-  },
-  {
-    "objectID": "cv.html#writing-speaking",
-    "href": "cv.html#writing-speaking",
-    "title": "Curriculum Vitae",
-    "section": "Writing & speaking",
-    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
-  },
-  {
-    "objectID": "cv.html#references",
-    "href": "cv.html#references",
-    "title": "Curriculum Vitae",
-    "section": "References",
-    "text": "References\nAvailable on request."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "A selection of public technical work. Source on GitHub."
-  },
-  {
-    "objectID": "projects.html#offensive-security-tooling",
-    "href": "projects.html#offensive-security-tooling",
-    "title": "Projects",
-    "section": "Offensive security tooling",
-    "text": "Offensive security tooling\n\n\n\nOSCP-Notes\nHTML\nWorking notes and methodology references compiled while preparing for and re-using through the OSCP.\n\n\nNimRevShell\nNim\nA reverse shell written in Nim, useful for studying language-driven AV/EDR evasion patterns.\n\n\nNimPortScan\nNim\nA small port scanner in Nim, paired with the reverse shell as a teaching artifact for offensive tooling in less common languages.\n\n\nRustPasswordCracker\nRust\nA multithreaded password cracker built in Rust, companion code to the 2600: The Hacker Quarterly article on building a password cracker with OpenAI and Rust.\n\n\nDiversion_THM_Box\nShell\nA vulnerable Linux machine I built for the TryHackMe Diversion challenge, used as a teaching aid for designing CTF-style targets."
-  },
-  {
-    "objectID": "projects.html#cybersecurity-automation",
-    "href": "projects.html#cybersecurity-automation",
-    "title": "Projects",
-    "section": "Cybersecurity automation",
-    "text": "Cybersecurity automation\n\n\n\nDiscordWebHashBot\nPython\nMonitors a website for content changes on a 24-hour interval and reports updates to a Discord channel, small but useful for tracking advisories or course-relevant pages."
-  },
-  {
-    "objectID": "projects.html#teaching-series",
-    "href": "projects.html#teaching-series",
-    "title": "Projects",
-    "section": "Teaching series",
-    "text": "Teaching series\n\n\n\nCleartext\nWriting\nA module-by-module walk through the network stack, mapping the attacks that live at each layer. Published on Medium and indexed on Writing."
-  },
-  {
-    "objectID": "projects.html#open-source-contributions",
-    "href": "projects.html#open-source-contributions",
-    "title": "Projects",
-    "section": "Open-source contributions",
-    "text": "Open-source contributions\nI contribute back to the open-source projects I use. See merged pull requests on my GitHub profile."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
-  },
-  {
-    "objectID": "publications.html#peer-reviewed",
-    "href": "publications.html#peer-reviewed",
-    "title": "Publications",
-    "section": "",
-    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
-  },
-  {
-    "objectID": "publications.html#trade",
-    "href": "publications.html#trade",
-    "title": "Publications",
-    "section": "Trade",
-    "text": "Trade\nRussell, B. R. (2025, Spring). Building a password cracker using OpenAI and Rust. 2600: The Hacker Quarterly."
-  },
-  {
-    "objectID": "publications.html#self-published",
-    "href": "publications.html#self-published",
-    "title": "Publications",
-    "section": "Self-published",
-    "text": "Self-published\nRussell, B. R. (2023). From wrenches to pens.\nRussell, B. R. (2022). The other airman."
-  },
-  {
-    "objectID": "publications.html#doctoral-dissertation",
-    "href": "publications.html#doctoral-dissertation",
-    "title": "Publications",
-    "section": "Doctoral dissertation",
-    "text": "Doctoral dissertation\nRussell, B. R. (2022). Recommendations for improving applicant diversity recruitment at the United States Air Force Aim High Flight Academy. Doctor of Education in Educational Leadership, Liberty University, Lynchburg, VA."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -189,6 +42,34 @@
     "text": "What I do outside of work\nOutside of professional projects I follow my kids’ sports, collect and trade graded sports cards and Magic: The Gathering, and read across cognitive science, comparative religion, and infrastructure topics."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "",
+    "text": "I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force’s primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.\nMy background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.\nI hold CISSP, GXPN, OSCP, OSWP, Security+, PMP, TS/SCI, and CCAF Master Instructor credentials, and I am pursuing FAA Airframe and Powerplant certification through the military experience pathway.\nIf you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a guest lecture, I would be glad to talk: brandon.r.russell.1@gmail.com.\nFull CV   Resume (PDF)   Email"
+  },
+  {
+    "objectID": "index.html#by-the-numbers",
+    "href": "index.html#by-the-numbers",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "By the numbers",
+    "text": "By the numbers\n\n\n3,000+ hours of classroom instruction\n\n\n1,398 students graduated\n\n\n153 courses reviewed\n\n\n21 instructors supervised"
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Selected work",
+    "text": "Selected work\n\nThe United States Air Force pilot diversity dilemma. Peer-reviewed, Equality, Diversity and Inclusion: An International Journal (2023).\nBeyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Peer-reviewed, Joint Force Quarterly (forthcoming).\nBuilding a password cracker using OpenAI and Rust. 2600: The Hacker Quarterly (Spring 2025), with companion code on GitHub.\nCleartext. A series that walks the network stack one layer at a time and maps the attacks that live at each one.\n\nThe full list is on Publications, with code on Projects."
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Brandon Russell, Ed.D.",
+    "section": "Currently",
+    "text": "Currently\n\nTeaching across cybersecurity, computer science, aviation, and aerospace topics, see Teaching.\nWriting on cybersecurity training, offensive security, and instructional design, on Medium and here.\nOpen to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.\nAvailable for selective consulting in cybersecurity training program design and offensive security assessment scoping.\nAvailable for guest lectures and seminars, see Speaking."
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -207,7 +88,7 @@
     "href": "teaching.html#current-teaching-role",
     "title": "Teaching",
     "section": "Current teaching role",
-    "text": "Current teaching role\nAs Cyber Master Instructor and Director of Student Management at one of the Air Force’s primary technical training schoolhouses, I oversee the development of new cyber and communications officers. The work involves curriculum review, instructor development, and direct classroom and lab instruction.\nI am a Certified Master Instructor, the terminal instructional credential within the Air Force training pipeline."
+    "text": "Current teaching role\nAs Cyber Master Instructor and Director of Student Management at one of the Air Force’s primary technical training schoolhouses, I oversee the development of new cyber and communications officers. The work involves curriculum review, instructor development, and direct classroom and lab instruction. As Director of Student Management, I am also responsible for the oversight of more than 1,000 students a year, from the day they arrive to the day they leave.\nI am a Certified Master Instructor, the terminal instructional credential within the Air Force training pipeline."
   },
   {
     "objectID": "teaching.html#mentoring-and-faculty-development",
@@ -217,25 +98,123 @@
     "text": "Mentoring and faculty development\nI have built and delivered presentations on pursuing a terminal degree for officers considering doctoral work, and I regularly mentor instructors on classroom delivery, assessment design, and the career path from operator to educator.\nFor guest lectures and departmental seminars, see Speaking."
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A selection of public technical work. Source on GitHub."
+  },
+  {
+    "objectID": "projects.html#offensive-security-tooling",
+    "href": "projects.html#offensive-security-tooling",
+    "title": "Projects",
+    "section": "Offensive security tooling",
+    "text": "Offensive security tooling\n\n\n\nOSCP-Notes\nHTML\nWorking notes and methodology references compiled while preparing for and re-using through the OSCP.\n\n\nNimRevShell\nNim\nA reverse shell written in Nim, useful for studying language-driven AV/EDR evasion patterns.\n\n\nNimPortScan\nNim\nA small port scanner in Nim, paired with the reverse shell as a teaching artifact for offensive tooling in less common languages.\n\n\nRustPasswordCracker\nRust\nA multithreaded password cracker built in Rust, companion code to the 2600: The Hacker Quarterly article on building a password cracker with OpenAI and Rust.\n\n\nDiversion_THM_Box\nShell\nA vulnerable Linux machine I built for the TryHackMe Diversion challenge, used as a teaching aid for designing CTF-style targets."
+  },
+  {
+    "objectID": "projects.html#cybersecurity-automation",
+    "href": "projects.html#cybersecurity-automation",
+    "title": "Projects",
+    "section": "Cybersecurity automation",
+    "text": "Cybersecurity automation\n\n\n\nDiscordWebHashBot\nPython\nMonitors a website for content changes on a 24-hour interval and reports updates to a Discord channel, small but useful for tracking advisories or course-relevant pages."
+  },
+  {
+    "objectID": "projects.html#teaching-series",
+    "href": "projects.html#teaching-series",
+    "title": "Projects",
+    "section": "Teaching series",
+    "text": "Teaching series\n\n\n\nCleartext\nWriting\nA module-by-module walk through the network stack, mapping the attacks that live at each layer. Published on Medium and indexed on Writing."
+  },
+  {
+    "objectID": "projects.html#open-source-contributions",
+    "href": "projects.html#open-source-contributions",
+    "title": "Projects",
+    "section": "Open-source contributions",
+    "text": "Open-source contributions\nI contribute back to the open-source projects I use. See merged pull requests on my GitHub profile."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download resume (PDF)   LinkedIn   GitHub   Email"
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "Summary",
+    "text": "Summary\nEducator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. CISSP, OSCP, and TS/SCI credentials plus 25+ years of operational experience support faculty contribution in cybersecurity and aviation programs."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nDoctor of Education, Educational Leadership   ·   4.0 GPA   ·   Aug 2022\nLiberty University, Lynchburg, VA\nMaster of Science, Information Technology   ·   4.0 GPA   ·   May 2019\nUniversity of Maryland Global Campus, Adelphi, MD\nBachelor of Science, Computer Studies   ·   3.8 GPA   ·   Jun 2010\nUniversity of Maryland Global Campus, Adelphi, MD"
+  },
+  {
+    "objectID": "cv.html#clearance-certifications",
+    "href": "cv.html#clearance-certifications",
+    "title": "Curriculum Vitae",
+    "section": "Clearance & certifications",
+    "text": "Clearance & certifications\n\nTS/SCI Clearance\nCertified Information Systems Security Professional (CISSP)\nGIAC Exploit Researcher and Advanced Penetration Tester (GXPN)\nOffSec Certified Professional (OSCP)\nOffSec Wireless Professional (OSWP)\nCompTIA Security+ ce\nCertified Master Instructor\nProject Management Professional (PMP)\nLinear Algebra I & II Certificate: Linear Equations & Matrix Algebra\nFAA Part 107 Small Unmanned Aircraft Systems License\nProfessional Manager Certification"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nCurriculum Design & Development  ·  Course & Assessment Design  ·  Faculty Mentorship  ·  Technical Instruction  ·  Outcomes-Based Learning  ·  Cybersecurity Operations & Strategy  ·  Penetration Testing & Red Teaming  ·  Software Development & Coding  ·  Database Design & SQL  ·  AI Security & Offensive AI"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nTeaching & curriculum\n\nDelivered 3,000+ hours of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.\nSupervised 21 instructors, reviewed 153 courses covering 3,000 learning objectives, and mentored faculty in lesson design and assessment, graduating 1,398 students.\nOversee 1,000+ students a year as Director of Student Management, responsible for each student from arrival through departure.\n\n\n\nCybersecurity & leadership\n\nCommanded 103 personnel and directed C2 of 10K cyber forces for 638K joint warfighters; integrated kinetic and non-kinetic capabilities for unified global effects.\nLed a 51-person joint AF/Navy team managing a $54M cyber weapon system, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system.\n\n\n\nCyber effects\n\nLed cyber operations countering a supply chain hack, hardening 289 servers across 81 missions and blunting nation-state adversaries.\nConducted cyber surveillance for NORAD and Operation Noble Eagle, protecting the 2020 elections, the top priority of the USCYBERCOM commander.\n\n\n\nSoftware development\n\nBuilt a SharePoint solution across 58 Air Force units, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.\nDeveloped database systems for aircraft operations, handling 10K sorties and $29M in assets with SQL backends supporting trend analysis and continuity.\n\n\n\nAviation systems\n\nSpent over a decade as an aviation mechanic on the C-5, C-17, and E-8C airframes, supporting 4,488 missions worldwide.\nDeveloped deep expertise across jet engines, electrical power, bleed air, environmental control, fire warning, and emergency oxygen systems, methodically isolating faults from schematics and technical orders to return aircraft to flight."
+  },
+  {
+    "objectID": "cv.html#work-history",
+    "href": "cv.html#work-history",
+    "title": "Curriculum Vitae",
+    "section": "Work history",
+    "text": "Work history\nUnited States Air Force\n\n\n\n\n\n\n\n\n\nRole\nLocation\nYears\n\n\n\n\nCyber Master Instructor / Director of Student Management\nBiloxi, MS\n2026 – Present\n\n\nCyber Master Instructor / Acting Director of Operations\nBiloxi, MS\n2024 – 2026\n\n\nRecruiting Program Manager\nSan Antonio, TX\n2021 – 2024\n\n\nSenior Duty Officer, Cyber Operations\nSan Antonio, TX\n2020 – 2021\n\n\nFlight Commander, Cyber Operations\nCharleston, SC\n2017 – 2020\n\n\nSupervisor & Master Instructor\nWarner Robins, GA\n2011 – 2016\n\n\nAircraft Electrical Tech, DB Developer, IA Officer\nSpain & Azores\n2001 – 2011"
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "Curriculum Vitae",
+    "section": "Teaching",
+    "text": "Teaching\nTeaching across cybersecurity, computer science, aviation, and aerospace topics. See Teaching for areas of expertise and current cohorts."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "Curriculum Vitae",
+    "section": "Selected projects",
+    "text": "Selected projects\nSee Projects and GitHub."
+  },
+  {
+    "objectID": "cv.html#writing-speaking",
+    "href": "cv.html#writing-speaking",
+    "title": "Curriculum Vitae",
+    "section": "Writing & speaking",
+    "text": "Writing & speaking\nSee Writing, Publications, Medium, and YouTube."
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable on request."
+  },
+  {
     "objectID": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
     "href": "posts/2026-04-26-cleartext-module-1-path-of-a-packet/index.html",
     "title": "Cleartext, Module 1: The Path of a Packet",
     "section": "",
     "text": "Read on Medium →\n\nYou type curl https://example.com and hit enter. 200 milliseconds later, the server’s response is on your screen. In that 200 milliseconds, a lot happened.\n\nThe first module in the Cleartext series. Walks through the path a packet takes from your terminal to a remote server and back, then maps the categories of attack that live at each layer. Designed as the foundation that later modules build on."
-  },
-  {
-    "objectID": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
-    "href": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
-    "title": "Cleartext, Module 2: Layer 2, Frames, MACs, and Switches",
-    "section": "",
-    "text": "Read on Medium →\n\nIn Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.\n\nThe second module in the Cleartext series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module."
-  },
-  {
-    "objectID": "posts/2026-05-10-cleartext-module-3-layer-3/index.html",
-    "href": "posts/2026-05-10-cleartext-module-3-layer-3/index.html",
-    "title": "Cleartext, Module 3: Layer 3, IP, Routing, and ICMP",
-    "section": "",
-    "text": "Read on Medium →\n\nIn Module 2 we watched a frame get handed off from one device to another on a single segment of wire. That’s a useful trick if everything you care about lives in the same room. It is not how the internet works.\n\nThe third module in the Cleartext series. Moves past the single-segment view of Module 2 and walks Layer 3: how IP addresses identify hosts across a network nobody owns, how routing decisions get made, what ICMP actually does, and the security weaknesses baked into each. The module that explains why “the internet” works at all."
   },
   {
     "objectID": "contact.html",
@@ -250,6 +229,55 @@
     "title": "Contact",
     "section": "What I am open to",
     "text": "What I am open to\n\nFaculty conversations. Professor of practice, senior lecturer, and adjunct roles in cybersecurity, computer science, aviation, and aerospace programs.\nConsulting engagements. Cybersecurity training program design, course and curriculum review, offensive security assessment scoping, and instructional design for technical content.\nSpeaking and guest lectures. See Speaking.\n\nIf you are reaching out about a faculty role, a brief note about the program and the timing of the search is the most useful thing you can include in a first email."
+  },
+  {
+    "objectID": "posts/2026-05-10-cleartext-module-3-layer-3/index.html",
+    "href": "posts/2026-05-10-cleartext-module-3-layer-3/index.html",
+    "title": "Cleartext, Module 3: Layer 3, IP, Routing, and ICMP",
+    "section": "",
+    "text": "Read on Medium →\n\nIn Module 2 we watched a frame get handed off from one device to another on a single segment of wire. That’s a useful trick if everything you care about lives in the same room. It is not how the internet works.\n\nThe third module in the Cleartext series. Moves past the single-segment view of Module 2 and walks Layer 3: how IP addresses identify hosts across a network nobody owns, how routing decisions get made, what ICMP actually does, and the security weaknesses baked into each. The module that explains why “the internet” works at all."
+  },
+  {
+    "objectID": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
+    "href": "posts/2026-05-03-cleartext-module-2-layer-2/index.html",
+    "title": "Cleartext, Module 2: Layer 2, Frames, MACs, and Switches",
+    "section": "",
+    "text": "Read on Medium →\n\nIn Module 1 we walked the path of a packet from a laptop on a coffee shop wifi to a server somewhere on the internet. We treated Layer 2 as a thin wrapper that gets your packet across one hop. That was a useful simplification. It was also a lie of omission.\n\nThe second module in the Cleartext series. Pulls back the Layer 2 simplification from Module 1 and walks through frames, MAC addresses, and switches, then maps the local-network attacks that live there: ARP spoofing, MAC flooding, and VLAN hopping. The why-the-attacker-next-to-you-already-owns-the-network module."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed",
+    "href": "publications.html#peer-reviewed",
+    "title": "Publications",
+    "section": "",
+    "text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Joint Force Quarterly, 121.\nRussell, B. R. (2023). The United States Air Force pilot diversity dilemma. Equality, Diversity and Inclusion: An International Journal, 42(7), 848–871. https://doi.org/10.1108/edi-10-2022-0297"
+  },
+  {
+    "objectID": "publications.html#trade",
+    "href": "publications.html#trade",
+    "title": "Publications",
+    "section": "Trade",
+    "text": "Trade\nRussell, B. R. (2025, Spring). Building a password cracker using OpenAI and Rust. 2600: The Hacker Quarterly."
+  },
+  {
+    "objectID": "publications.html#self-published",
+    "href": "publications.html#self-published",
+    "title": "Publications",
+    "section": "Self-published",
+    "text": "Self-published\nRussell, B. R. (2023). From wrenches to pens.\nRussell, B. R. (2022). The other airman."
+  },
+  {
+    "objectID": "publications.html#doctoral-dissertation",
+    "href": "publications.html#doctoral-dissertation",
+    "title": "Publications",
+    "section": "Doctoral dissertation",
+    "text": "Doctoral dissertation\nRussell, B. R. (2022). Recommendations for improving applicant diversity recruitment at the United States Air Force Aim High Flight Academy. Doctor of Education in Educational Leadership, Liberty University, Lynchburg, VA."
   },
   {
     "objectID": "speaking.html",
@@ -292,33 +320,5 @@
     "title": "Writing",
     "section": "Topics I write about",
     "text": "Topics I write about\nCybersecurity education, training program design, offensive security operations, military aviation systems, the transition from military to academic and consulting careers, and occasionally cognitive science, the philosophy of education, and systems thinking."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "",
-    "text": "I am a U.S. Air Force cyber officer and instructor supervisor at one of the Air Force’s primary technical schoolhouses for cyber and communications officers. I hold a doctorate in educational leadership and am preparing for the next chapter: teaching cybersecurity and aviation systems at the university level.\nMy background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.\nI hold CISSP, GXPN, OSCP, OSWP, Security+, PMP, TS/SCI, and CCAF Master Instructor credentials, and I am pursuing FAA Airframe and Powerplant certification through the military experience pathway.\nIf you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a guest lecture, I would be glad to talk: brandon.r.russell.1@gmail.com.\nFull CV   Resume (PDF)   Email"
-  },
-  {
-    "objectID": "index.html#by-the-numbers",
-    "href": "index.html#by-the-numbers",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "By the numbers",
-    "text": "By the numbers\n\n\n3,000+ hours of classroom instruction\n\n\n1,398 students graduated\n\n\n153 courses reviewed\n\n\n21 instructors supervised"
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "Selected work",
-    "text": "Selected work\n\nThe United States Air Force pilot diversity dilemma. Peer-reviewed, Equality, Diversity and Inclusion: An International Journal (2023).\nBeyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. Peer-reviewed, Joint Force Quarterly (forthcoming).\nBuilding a password cracker using OpenAI and Rust. 2600: The Hacker Quarterly (Spring 2025), with companion code on GitHub.\nCleartext. A series that walks the network stack one layer at a time and maps the attacks that live at each one.\n\nThe full list is on Publications, with code on Projects."
-  },
-  {
-    "objectID": "index.html#currently",
-    "href": "index.html#currently",
-    "title": "Brandon Russell, Ed.D.",
-    "section": "Currently",
-    "text": "Currently\n\nTeaching across cybersecurity, computer science, aviation, and aerospace topics, see Teaching.\nWriting on cybersecurity training, offensive security, and instructional design, on Medium and here.\nOpen to professor of practice, senior lecturer, and adjunct conversations with cybersecurity, computer science, aviation, and aerospace programs.\nAvailable for selective consulting in cybersecurity training program design and offensive security assessment scoping.\nAvailable for guest lectures and seminars, see Speaking."
   }
 ]
