@@ -29,6 +29,7 @@ University of Maryland Global Campus, Adelphi, MD
 - Certified Information Systems Security Professional (CISSP)
 - OffSec Certified Professional (OSCP)
 - OffSec Wireless Professional (OSWP)
+- GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
 - CompTIA Security+ ce
 - Certified Master Instructor
 - Project Management Professional (PMP)
