@@ -106,6 +106,7 @@ Educator and cybersecurity practitioner with a Doctor of Education, Certified Ma
 *U.S. Air Force, Warner Robins, GA* &nbsp;·&nbsp; 2011 – 2016
 
 - Taught aircraft electrical and aviation systems on the **E-8C** as a supervisor and Master Instructor, raising operational proficiency across U.S. Air Force wings.
+- Led seven Airmen through **977 maintenance actions** as night-shift noncommissioned officer-in-charge, sustaining a wing that flew **20,000+ flying hours** and **2,500+ training and combat sorties**.
 
 ### Aircraft Electrical Tech, DB Developer, IA Officer
 
