@@ -8,42 +8,7 @@ toc-location: right
 
 [Download resume (PDF)](files/brandon-russell-resume.pdf){.btn .btn-primary} &nbsp; [LinkedIn](https://www.linkedin.com/in/brandon-r-russell/){.btn .btn-outline-secondary} &nbsp; [GitHub](https://github.com/Brandon-Russell-1){.btn .btn-outline-secondary} &nbsp; [Email](mailto:brandon.r.russell.1@gmail.com){.btn .btn-outline-secondary}
 
-## Summary
-
-Educator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. Holds CISSP, GXPN, and OSCP certifications and a TS/SCI clearance, with 25+ years of operational experience in cyber and aviation systems.
-
-## Education
-
-**Doctor of Education, Educational Leadership** &nbsp; · &nbsp; 4.0 GPA &nbsp; · &nbsp; Aug 2022 \
-Liberty University, Lynchburg, VA
-
-**Master of Science, Information Technology** &nbsp; · &nbsp; 4.0 GPA &nbsp; · &nbsp; May 2019 \
-University of Maryland Global Campus, Adelphi, MD
-
-**Bachelor of Science, Computer Studies** &nbsp; · &nbsp; 3.8 GPA &nbsp; · &nbsp; Jun 2010 \
-University of Maryland Global Campus, Adelphi, MD
-
-## Clearance & certifications
-
-- **TS/SCI Clearance**
-- Certified Information Systems Security Professional (CISSP)
-- GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
-- OffSec Certified Professional (OSCP)
-- OffSec Wireless Professional (OSWP)
-- CompTIA Security+ ce
-- Certified Master Instructor
-- Project Management Professional (PMP)
-- Linear Algebra I & II Certificate: Linear Equations & Matrix Algebra
-- FAA Part 107 Small Unmanned Aircraft Systems License
-- Professional Manager Certification
-
-## Skills
-
-Curriculum Design & Development &nbsp;·&nbsp; Course & Assessment Design &nbsp;·&nbsp; Faculty Mentorship &nbsp;·&nbsp; Technical Instruction &nbsp;·&nbsp; Outcomes-Based Learning &nbsp;·&nbsp; Cybersecurity Operations & Strategy &nbsp;·&nbsp; Penetration Testing & Red Teaming &nbsp;·&nbsp; Software Development & Coding &nbsp;·&nbsp; Database Design & SQL &nbsp;·&nbsp; AI Security & Offensive AI
-
-## Professional experience
-
-{{< include _cv-experience.md >}}
+{{< include _cv-resume.md >}}
 
 ## Teaching
 

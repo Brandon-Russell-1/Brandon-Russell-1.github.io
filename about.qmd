@@ -20,15 +20,15 @@ My focus is shifting toward the next chapter: teaching cybersecurity and aviatio
 ## Clearance & certifications
 
 - **TS/SCI Clearance**
-- Certified Information Systems Security Professional (**CISSP**)
 - GIAC Exploit Researcher and Advanced Penetration Tester (**GXPN**)
 - OffSec Certified Professional (**OSCP**)
 - OffSec Wireless Professional (**OSWP**)
-- CompTIA **Security+** ce
-- Certified **Master Instructor**
+- Certified Information Systems Security Professional (**CISSP**)
+- CompTIA **Security+** ce Certification
 - Project Management Professional (**PMP**)
-- Linear Algebra I & II Certificate (Linear Equations & Matrix Algebra)
-- FAA **Part 107** Small Unmanned Aircraft Systems
+- Certified **Master Instructor**
+- Linear Algebra I & II Certificate: Linear Equations & Matrix Algebra
+- **Part 107** Small Unmanned Aircraft Systems License
 - Professional Manager Certification
 
 ## Teaching philosophy
