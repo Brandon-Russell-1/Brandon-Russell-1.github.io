@@ -43,49 +43,7 @@ Curriculum Design & Development &nbsp;·&nbsp; Course & Assessment Design &nbsp;
 
 ## Professional experience
 
-### Teaching & curriculum
-
-- Delivered **3,000+ hours** of advanced classroom instruction in cybersecurity, communications, and aviation electrical systems, raising operational proficiency across U.S. Air Force wings and joint cyber forces.
-- Supervised **21 instructors**, reviewed **153 courses** covering **3,000 learning objectives**, and mentored faculty in lesson design and assessment, graduating **1,398 students**.
-- Oversee **1,000+ students a year** as Director of Student Management, responsible for each student from arrival through departure.
-
-### Cybersecurity & leadership
-
-- Commanded **103 personnel** and directed C2 of **10K cyber forces** for **638K joint warfighters**; integrated kinetic and non-kinetic capabilities for unified global effects.
-- Led a **51-person joint AF/Navy team** managing a **$54M cyber weapon system**, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system.
-
-### Cyber effects
-
-- Led cyber operations countering a supply chain hack, hardening **289 servers across 81 missions** and blunting nation-state adversaries.
-- Conducted cyber surveillance for **NORAD** and **Operation Noble Eagle**, protecting the 2020 elections, the top priority of the USCYBERCOM commander.
-
-### Software development
-
-- Built a SharePoint solution across **58 Air Force units**, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs.
-- Developed database systems for aircraft operations, handling **10K sorties** and **$29M in assets** with SQL backends supporting trend analysis and continuity.
-
-### Aviation systems
-
-- Spent over a decade as an aviation mechanic on the **C-5, C-17, and E-8C** airframes, supporting **4,488 missions** worldwide.
-- Developed deep expertise across jet engines, electrical power, bleed air, environmental control, fire warning, and emergency oxygen systems, methodically isolating faults from schematics and technical orders to return aircraft to flight.
-
-## Work history
-
-**United States Air Force**
-
-::: {.cv-table}
-
-| Role | Location | Years |
-|---|---|---|
-| Cyber Master Instructor / Director of Student Management | Biloxi, MS | 2026 – Present |
-| Cyber Master Instructor / Acting Director of Operations | Biloxi, MS | 2024 – 2026 |
-| Recruiting Program Manager | San Antonio, TX | 2021 – 2024 |
-| Senior Duty Officer, Cyber Operations | San Antonio, TX | 2020 – 2021 |
-| Flight Commander, Cyber Operations | Charleston, SC | 2017 – 2020 |
-| Supervisor & Master Instructor | Warner Robins, GA | 2011 – 2016 |
-| Aircraft Electrical Tech, DB Developer, IA Officer | Spain & Azores | 2001 – 2011 |
-
-:::
+{{< include _cv-experience.md >}}
 
 ## Teaching
 

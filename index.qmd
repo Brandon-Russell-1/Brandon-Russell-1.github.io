@@ -59,7 +59,7 @@ I am a U.S. Air Force cyber officer, master instructor, and Director of Student 
 
 My background spans two technical worlds. I came up through aircraft electrical and avionics maintenance, then moved into cyber. That combination of hands-on systems work, modern offensive and defensive cyber, and a doctoral-level study of how adults actually learn is what I bring into a classroom and into client engagements.
 
-I hold **CISSP**, **GXPN**, **OSCP**, **OSWP**, **Security+**, **PMP**, **TS/SCI**, and **CCAF Master Instructor** credentials, and I am pursuing **FAA Airframe and Powerplant** certification through the military experience pathway.
+I hold **CISSP**, **GXPN**, **OSCP**, **OSWP**, **Security+**, **PMP**, **TS/SCI**, and **Certified Master Instructor** credentials, and I am pursuing **FAA Airframe and Powerplant** certification through the military experience pathway.
 
 If you are a department chair, hiring manager, or program lead in cybersecurity, computer science, aviation, or aerospace, or you want to bring me in for a guest lecture, I would be glad to talk: [brandon.r.russell.1@gmail.com](mailto:brandon.r.russell.1@gmail.com).
 
@@ -72,7 +72,7 @@ If you are a department chair, hiring manager, or program lead in cybersecurity,
 [3,000+]{.stat-num} hours of classroom instruction
 :::
 ::: {.stat}
-[1,398]{.stat-num} students graduated
+[1,000+]{.stat-num} students overseen each year
 :::
 ::: {.stat}
 [153]{.stat-num} courses reviewed

@@ -1,0 +1,94 @@
+{
+  "name": "Brandon Russell",
+  "email": "brandon.r.russell.1@gmail.com",
+  "location": "Biloxi, MS 39531",
+  "website": "brandonrussell.io",
+  "summary": "Educator and cybersecurity practitioner with a Doctor of Education, Certified Master Instructor credential, and 3,000+ hours of classroom instruction in cybersecurity, communications, and aviation systems. Holds CISSP, GXPN, and OSCP certifications and a TS/SCI clearance, with 25+ years of operational experience in cyber and aviation systems.",
+  "certifications": [
+    ["**TS/SCI Clearance**",
+     "GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)",
+     "OffSec Certified Professional (OSCP)",
+     "OffSec Wireless Professional (OSWP)",
+     "Certified Information Systems Security Professional (CISSP)",
+     "CompTIA Security+ ce Certification"],
+    ["Project Management Professional (PMP)",
+     "Certified Master Instructor",
+     "Linear Algebra I & II Certificate: Linear Equations & Matrix Algebra",
+     "Part 107 Small Unmanned Aircraft Systems License",
+     "Professional Manager Certification"]
+  ],
+  "skills": [
+    ["Curriculum Design & Development",
+     "Course & Assessment Design",
+     "Faculty Mentorship",
+     "Technical Instruction",
+     "Outcomes-Based Learning"],
+    ["Cybersecurity Operations & Strategy",
+     "Penetration Testing & Red Teaming",
+     "Software Development & Coding",
+     "Database Design & SQL",
+     "AI Security & Offensive AI"]
+  ],
+  "education": [
+    {"degree": "Doctor of Education (Ed.D.) in Educational Leadership, 4.0 GPA", "date": "Aug 2022",
+     "school": "Liberty University, Lynchburg, VA"},
+    {"degree": "Master of Science (M.S.) in Information Technology, 4.0 GPA", "date": "May 2019",
+     "school": "University of Maryland Global Campus, Adelphi, MD"},
+    {"degree": "Bachelor of Science (B.S.) in Computer Studies, 3.8 GPA", "date": "Jun 2010",
+     "school": "University of Maryland Global Campus, Adelphi, MD"}
+  ],
+  "experience": [
+    {"title": "Cyber Master Instructor / Director of Student Management",
+     "org": "U.S. Air Force", "location": "Biloxi, MS", "dates": "2026 – Present",
+     "bullets": [
+       "Oversee **1,000+ students a year**, responsible for each student from arrival through departure.",
+       "Led development of an advanced cyber operations course that trains field grade officers on emerging threats and operations in the modern cyber domain, with an initial cohort of **180 students**, at the direction of the AF/A6, Deputy Chief of Staff for Warfighter Communications and Cyber Systems."
+     ]},
+    {"title": "Cyber Master Instructor / Acting Director of Operations",
+     "org": "U.S. Air Force", "location": "Biloxi, MS", "dates": "2024 – 2026",
+     "bullets": [
+       "Supervised **21 instructors**, reviewed **153 courses** covering **3,000 learning objectives**, and mentored faculty in lesson design and assessment.",
+       "Delivered advanced classroom instruction in cybersecurity and communications, raising operational proficiency across joint cyber forces."
+     ]},
+    {"title": "Recruiting Program Manager",
+     "org": "U.S. Air Force", "location": "San Antonio, TX", "dates": "2021 – 2024",
+     "bullets": [
+       "Authored the Zone Engagement Operations Framework in direct support of the Chief of Staff of the Air Force strategy to improve rated career field recruitment, enabling **61 wings and 734 mentors** to run 624 events reaching **138,000 people**, and led the largest zone engagement to date, deploying 20 wings and an 85-member mentor team across seven towns and driving a **900% increase** in Flight Academy applications.",
+       "Built a SharePoint solution across **58 Air Force units**, enabling 1,000 personnel to execute 670 events nationwide and saving $500K in development costs."
+     ]},
+    {"title": "Senior Duty Officer, Cyber Operations",
+     "org": "U.S. Air Force", "location": "San Antonio, TX", "dates": "2020 – 2021",
+     "bullets": [
+       "Directed C2 of **10K cyber forces** for **638K joint warfighters**; integrated kinetic and non-kinetic capabilities for unified global effects.",
+       "Led cyber operations countering a supply chain hack, hardening **289 servers across 81 missions** and blunting nation-state adversaries.",
+       "Conducted cyber surveillance for **NORAD** and **Operation Noble Eagle**, protecting the 2020 elections, the top priority of the USCYBERCOM commander."
+     ]},
+    {"title": "Flight Commander, Cyber Operations",
+     "org": "U.S. Air Force", "location": "Charleston, SC", "dates": "2017 – 2020",
+     "bullets": [
+       "Commanded **103 personnel** in cyber operations.",
+       "Led a **51-person joint AF/Navy team** managing a **$54M cyber weapon system**, 80 Defense Information System Network circuits, 120 servers, a $9.5M radio network, and a $1.2M loudspeaker system."
+     ]},
+    {"title": "Supervisor & Master Instructor",
+     "org": "U.S. Air Force", "location": "Warner Robins, GA", "dates": "2011 – 2016",
+     "bullets": [
+       "Taught aircraft electrical and aviation systems on the **E-8C** as a supervisor and Master Instructor, raising operational proficiency across U.S. Air Force wings."
+     ]},
+    {"title": "Aircraft Electrical Tech, DB Developer, IA Officer",
+     "org": "U.S. Air Force", "location": "Spain & Azores", "dates": "2001 – 2011",
+     "bullets": [
+       "Maintained **C-5 and C-17** aircraft as an aircraft electrical technician, supporting **4,488 missions** worldwide.",
+       "Developed deep expertise across jet engines, electrical power, bleed air, environmental control, fire warning, and emergency oxygen systems, methodically isolating faults from schematics and technical orders to return aircraft to flight.",
+       "Developed database systems for aircraft operations, handling **10K sorties** and **$29M in assets** with SQL backends supporting trend analysis and continuity."
+     ]}
+  ],
+  "publications": [
+    {"text": "Russell, B. R. (forthcoming, 2026). Beyond access: Reimagining air mobility, basing, and endurance in the Indo-Pacific theater. *Joint Force Quarterly*, 121."},
+    {"text": "Russell, B. R. (2025, Spring). Building a password cracker using OpenAI and Rust. *2600: The Hacker Quarterly*."},
+    {"text": "Russell, B. R. (2023). The United States Air Force pilot diversity dilemma. *Equality, Diversity and Inclusion: An International Journal*, 42(7), 848-871.",
+     "url": "https://doi.org/10.1108/edi-10-2022-0297"},
+    {"text": "Russell, B. R. (2023). *From wrenches to pens* [self-published]."},
+    {"text": "Russell, B. R. (2022). *The other airman* [self-published]."},
+    {"text": "Russell, B. R. (2022). *Recommendations for improving applicant diversity recruitment at the United States Air Force Aim High Flight Academy* [Doctoral dissertation, Liberty University]."}
+  ]
+}

@@ -18,3 +18,7 @@ Thumbs.db
 
 # Resume PDF contains personal contact info, not for public push
 Brandon_Russell_Resume.pdf
+
+# Resume build: private contact details and local backups
+/_resume/private.json
+/_resume/backup/
