@@ -70,7 +70,7 @@ Educator and cybersecurity practitioner with a Doctor of Education, Certified Ma
 *U.S. Air Force, Biloxi, MS* &nbsp;·&nbsp; 2026 – Present
 
 - Oversee **1,000+ students a year**, responsible for each student from arrival through departure.
-- Led development of an advanced cyber operations course that trains field grade officers on emerging threats and operations in the modern cyber domain, with an initial cohort of **180 students**, at the direction of the AF/A6, Deputy Chief of Staff for Warfighter Communications and Cyber Systems.
+- Led development of an advanced cyber operations course that trains field grade officers on emerging threats and operations in the modern cyber domain, with an initial cohort of **180 students**.
 
 ### Cyber Master Instructor / Acting Director of Operations
 
